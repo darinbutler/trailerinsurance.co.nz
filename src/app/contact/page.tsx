@@ -88,15 +88,7 @@ export default function ContactPage() {
             </div>
 
             {/* Right: Quote Form */}
-            <div className="bg-white rounded-2xl shadow-2xl shadow-black/30 overflow-hidden">
-              <div className="bg-gradient-to-r from-amber-500 to-orange-600 px-6 py-4">
-                <h2 className="text-white font-bold text-lg">Get a Free Quote</h2>
-                <p className="text-amber-100 text-sm">Compare leading NZ trailer insurance providers</p>
-              </div>
-              <div className="p-6">
-                <QuoteForm mode="full" />
-              </div>
-            </div>
+            <QuoteForm mode="compact" />
 
           </div>
         </div>
