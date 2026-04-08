@@ -89,7 +89,7 @@ export default function CarTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Car Trailer Insurance NZ
+                Car Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Safe Coverage for Vehicle Transport
                 </span>
@@ -203,6 +203,74 @@ export default function CarTrailerInsurancePage() {
                   Tower offers competitive car trailer insurance with flexible terms for business and personal vehicle transport use.
                 </p>
               </div>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Common Car Trailer Insurance Claims</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Accident Damage While Towing</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Collision accidents while towing are among the most common car trailer claims. Whether you're involved in a rear-end collision, hit an object on the road, or your trailer jackknifes, <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive trailer cover</Link> protects against these incidents. Claims can include damage to the frame, ramps, lights, and tie-down systems. Always ensure your tow vehicle has adequate braking and control for your trailer's weight.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Theft at Auctions and Dealerships</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Car trailers parked at auction sites and vehicle dealerships are frequent theft targets. Thieves may steal the entire trailer, or steal valuable components like hydraulic ramps, chains, lights, or the tow coupling. Your insurance covers replacement or repair of the trailer and equipment. To reduce theft risk and potentially lower premiums, use approved wheel clamps and coupling locks when parked, and consider <Link href="/insurance/best-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive cover options that include additional security discounts</Link>.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Vandalism and Weather Damage</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Enclosed car trailers left at exposed sites can suffer vandalism damage—broken windows, door damage, or scratches to bodywork. Hail storms can dent aluminum or steel bodies. Wind can damage ramps or attachment points. Comprehensive insurance covers these incidents, though you may need to prove how damage occurred. Photographs taken immediately after damage are valuable evidence for your claim.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">How to Choose the Right Car Trailer Insurance Policy</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Assess Your Coverage Needs</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your coverage choice depends on your use. If you operate a professional vehicle transport business, you need commercial-grade <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive coverage</Link> to protect your income. If you occasionally transport a few vehicles, <Link href="/types/third-party-liability" className="text-amber-600 hover:text-amber-700 font-semibold underline">third-party liability cover</Link> may be sufficient. Consider your trailer's value, typical vehicle loads, and how often you use it. Your policy should clearly state business use to avoid claims being denied.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Compare Multiple Quotes</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Don't accept the first quote. Insurance prices vary significantly between providers for identical coverage. <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Compare trailer insurance from multiple NZ providers</Link> to find the best value. Some insurers specialize in commercial vehicle transport, while others focus on personal use. Getting 3-5 quotes takes just a few minutes and could save you hundreds of dollars annually.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Understand Your Excess Options</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your excess (the amount you pay toward a claim) significantly affects your premium. A $250 excess will have a higher premium than a $1000 excess. Choose an excess you can comfortably afford to pay. If you make frequent claims, a higher excess might make sense. If your trailer is parked in a high-theft area, a lower excess might be worthwhile despite higher premiums.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Cost-Saving Tips for Car Trailer Insurance</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Security Measures Reduce Premiums</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Installing approved security equipment can significantly reduce your premiums. Wheel clamps, coupling locks, and alarm systems demonstrate to insurers that you're serious about protecting your investment. Some policies offer discounts of 10-20% for enhanced security. These measures also physically deter thieves, reducing your actual theft risk. <Link href="/insurance/cheap-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Learn about affordable insurance options that reward security investments</Link>.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Bundle and Multi-Policy Discounts</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Combining your car trailer insurance with home, vehicle, or other insurance policies often qualifies you for multi-policy discounts of 10-15%. Some insurers also offer loyalty discounts for keeping policies with them long-term. AA members may get additional discounts. Always ask about available discounts when getting quotes—they're often worth hundreds of dollars annually.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Increase Your Excess for Lower Premiums</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If your car trailer is in good condition and you're a careful operator, increasing your excess from $500 to $1000 can reduce your premium by 10-20%. Only do this if you can afford to pay the excess if you claim. This strategy works particularly well for business operators with few claims, where the savings over multiple years exceed the higher excess.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">NZ-Specific Considerations for Car Trailer Insurance</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Business Use Declaration</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                New Zealand insurers take business use very seriously. If you operate a professional vehicle transport service, auction consignment business, or vehicle sales operation, you must declare this on your policy. Using personal insurance for business activities voids your coverage. Make sure your policy explicitly states your business use to avoid claim denials. Professional operators should use commercial policies with higher vehicle value limits and 24/7 claims support.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Winter Weather and Rural Roads</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                New Zealand's winter weather—ice, snow, and wet roads—increases trailer accident risk. If your operations extend into winter or highland areas, ensure your policy covers weather-related accidents. Similarly, if you frequently travel on rural or unsealed roads, your towing technique and trailer condition affect your risk profile. Maintain your trailer's brakes and suspension year-round, and inform your insurer about seasonal variations in your use.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Caravan and Recreational Trailer Options</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If you also operate <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">caravan or recreational vehicle transport</Link>, some insurers offer multi-trailer policies. Similarly, operators of <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">horse floats or specialty trailers</Link> may benefit from specialized policies designed for those vehicle types.
+              </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Tips for Car Trailer Insurance</h2>
 

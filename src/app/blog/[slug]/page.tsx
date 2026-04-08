@@ -49,16 +49,24 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
 
       {/* Hero Section */}
-      <section className="py-12 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-amber-50 to-white border-b border-slate-200">
-        <div className="max-w-4xl mx-auto">
-          <Link href="/blog" className="inline-flex items-center gap-2 text-amber-600 hover:text-amber-700 font-semibold mb-6">
+      <section
+        className="relative py-20 sm:py-28 px-4 sm:px-6 lg:px-8"
+        style={{
+          backgroundImage: `url(${post.image})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+        }}
+      >
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-900/90 to-slate-900/60" />
+        <div className="relative max-w-4xl mx-auto">
+          <Link href="/blog" className="inline-flex items-center gap-2 text-slate-200 hover:text-white font-semibold mb-6 transition-colors">
             <ArrowLeft className="w-4 h-4" />
             Back to Blog
           </Link>
 
-          <h1 className="text-4xl sm:text-5xl font-bold text-slate-900 mb-6">{post.title}</h1>
+          <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">{post.title}</h1>
 
-          <div className="flex flex-wrap items-center gap-6 text-slate-600">
+          <div className="flex flex-wrap items-center gap-6 text-slate-300">
             <div className="flex items-center gap-2">
               <span className="text-sm">By {post.author}</span>
             </div>
@@ -70,11 +78,6 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
             </div>
           </div>
         </div>
-      </section>
-
-      {/* Featured Image */}
-      <section className="h-96 overflow-hidden bg-slate-200">
-        <img src={post.image} alt={post.title} className="w-full h-full object-cover" />
       </section>
 
       {/* Content Section */}

@@ -89,7 +89,7 @@ export default function HorseFloatInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Horse Float Insurance NZ
+                Horse Float Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Safe Transport Coverage for Your Horses
                 </span>

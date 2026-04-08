@@ -89,7 +89,7 @@ export default function EnclosedTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Enclosed Trailer Insurance NZ
+                Enclosed Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Protection for Cargo and Equipment Trailers
                 </span>
@@ -203,6 +203,79 @@ export default function EnclosedTrailerInsurancePage() {
                   State provides commercial-grade enclosed trailer insurance with 24/7 claims support, ideal for businesses relying on equipment transport.
                 </p>
               </div>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Common Enclosed Trailer Insurance Claims Scenarios</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Break-Ins and Theft of Contents</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Break-ins at storage facilities, construction sites, or parking areas are the most common claims for enclosed trailers. Thieves target expensive tools, equipment, and materials stored inside. With <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive coverage including contents protection</Link>, you're covered for both the forced entry damage and the stolen contents. Keep detailed inventories with photos and descriptions of valuable items, which helps speed up claims processing.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trailer Structural Damage</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Accidents while towing can cause significant structural damage. If your enclosed trailer is hit by another vehicle or hits an obstacle, damage to the aluminum or steel body, roof, and walls can be expensive to repair. Comprehensive insurance covers these impacts. Weather events like hail or windstorms can also damage the enclosed structure. Make sure your policy covers accidental damage and weather-related incidents.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Vandalism at Unattended Locations</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Enclosed trailers left at work sites, yards, or public parking areas are vulnerable to vandalism. Graffiti, dents, broken windows, and door damage can be costly. Your insurance covers vandalism damage, though you may need photographic evidence. To reduce vandalism risk and potentially lower premiums, park in secure locations with CCTV monitoring when possible, and maintain good lighting around your trailer.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">How to Choose the Right Enclosed Trailer Insurance Coverage</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trailer Cover vs Contents Cover</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                It's essential to understand the difference. Your main policy covers the trailer structure—the aluminum body, roof, floor, doors, lights, brakes, and suspension. Your contents cover is a separate, optional add-on that protects the valuable items you carry inside—tools, equipment, inventory, and materials. Most tradies and business operators need both. <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">Learn more about contents coverage options</Link> to protect your valuable cargo.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Calculate Your True Coverage Needs</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Before getting quotes, inventory your typical cargo. Make a detailed list of the tools and equipment you regularly carry, with estimated replacement values. This inventory determines your contents insurance limit. Don't underestimate—if your inventory is worth $15,000 but you only insure for $10,000, you'll only be compensated $10,000 if there's a total loss. Conversely, don't over-insure unnecessarily. An accurate inventory ensures you get appropriate coverage at a fair premium.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Business Use Requirements</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If you use your enclosed trailer for business purposes—transporting stock, tools, equipment for paid work, or as part of your trade—you need commercial coverage. Personal insurance for business use will have claims denied. Be honest about your intended use when getting quotes. Some insurers specialize in commercial and trade use with coverage levels and support designed for business operators.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Cost-Saving Strategies for Enclosed Trailer Insurance</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Security Measures Pay for Themselves</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Investing in security can substantially reduce your insurance costs. Approved wheel clamps and coupling locks can earn you 5-10% discounts. Alarm systems, motion sensors, or GPS trackers can reduce premiums by another 10-15%. Reinforced doors and high-grade locks are valued by insurers. These security measures have the added benefit of actually preventing theft and break-ins, which protects your contents and maintains your claims history. Calculate the payback period—many security investments pay for themselves through lower insurance premiums in 2-3 years.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Secure Storage Locations</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Where you park your trailer affects your insurance rate. Parking in a locked compound, garage, or secure facility commands significantly lower premiums than street parking or exposed work sites. If possible, arrange secure parking at your business premises or use a professional storage facility during downtime. This single change can reduce your premium by 10-20%.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Higher Excess for Lower Premiums</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If you can afford a higher excess, it significantly reduces your premium. Moving from a $500 excess to a $1000 excess can save 10-20% on your annual cost. This works well for established businesses with few claims. However, only choose this option if you can confidently pay the excess if you claim.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">NZ-Specific Enclosed Trailer Insurance Considerations</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trade and Business Compliance</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                New Zealand's insurance regulations require that business use be explicitly declared. If you operate a construction, landscaping, electrical, or plumbing business using an enclosed trailer, you must have commercial coverage. Using personal insurance for business purposes voids your coverage. Professional tradespeople should get quotes specifically designed for their industry, which often include specialized coverage for common risks in that trade.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Contents Documentation</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                For contents claims, documentation is essential. Keep detailed records with photos of expensive tools and equipment. Note serial numbers, purchase dates, and original values. This documentation speeds up claims processing and helps prevent disputes about item values. Some insurance policies allow you to take photos during the initial sign-up to establish baseline evidence.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Seasonal Variations and Storage</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If your trailer is used intensively during certain seasons and stored idle other times, inform your insurer. Some policies adjust coverage or premium during off-seasons. Similarly, if you operate in coastal areas or regions with harsh weather, make sure your policy covers weather-related damage. <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Compare different insurers' approaches to seasonal operations</Link> to find the best match for your business cycle.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Multi-Trailer and Fleet Considerations</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If you operate multiple trailers, fleet insurance policies may offer better rates than individual policies. <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">Commercial fleet coverage</Link> can cover all your trailers under one policy with simplified management and often significant savings.
+              </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Tips for Enclosed Trailer Insurance</h2>
 

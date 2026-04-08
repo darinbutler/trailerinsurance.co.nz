@@ -89,7 +89,7 @@ export default function FlatbedTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Flatbed Trailer Insurance NZ
+                Flatbed Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Heavy-Duty Coverage for Trade and Commerce
                 </span>
@@ -217,6 +217,94 @@ export default function FlatbedTrailerInsurancePage() {
                 <li>Review your policy annually to ensure coverage matches your operations</li>
                 <li>Get competitive quotes from multiple insurers to ensure best pricing</li>
               </ul>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Common Flatbed Trailer Claims</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Load Shifting and Overturning Incidents</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                One of the most serious flatbed claims involves load shifts or overturning. Improperly secured loads shift during transport, damaging tie-down systems or causing trailer tipping. When properly insured, accidental damage covers impacts from load shifts or overturning incidents. However, insurers may investigate whether load securing was adequate. Proper load securing reduces claim risk and demonstrates responsible operation.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Impact Damage from Collisions</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Collision damage to flatbed trailers can be extensive and expensive. Side impacts, rear-end collisions, or being hit while parked cause structural damage and component breakage. Comprehensive coverage protects against these accidents. Report collisions immediately to police and your insurer. Provide photos of damage, vehicle positions, and witness details. Quick documentation helps claims processing.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Brake System Failures</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Heavy-duty air brake systems are critical for safe flatbed operation. Brake failures can result from accident damage, impact damage, or component wear. Insurance covers damage to brake systems when caused by accidents or impacts, but excludes normal wear and maintenance failures. Optional mechanical breakdown coverage protects against system failures due to wear. Excellent maintenance practices help keep brake systems reliable.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Theft and Security Breaches</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Flatbeds parked at work sites are theft targets. Thieves steal securing equipment, chains, or material left on the deck. Comprehensive insurance covers theft. To qualify for theft coverage, use approved security—wheel clamps, couple locks, and ideally tracking devices or alarms. Work site security matters; well-lit, monitored sites have lower theft risk. Report thefts to police immediately.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Cost Factors for Commercial Flatbed Insurance</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Load Types and Weight Ratings</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Insurance premiums vary based on what you carry and how you operate. Carrying heavy construction loads costs more than occasional light haulage. Hazardous materials transport increases premiums significantly. Your trailer's weight rating and typical load weights are critical declarations. Overloading beyond rated capacity increases accident risk and may void insurance. Honest load declarations ensure appropriate premium and coverage.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Driver Experience and Qualifications</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Driver qualifications affect flatbed insurance premiums. Drivers with heavy vehicle licenses (if required for your trailer combination), good driving records, and specialized heavy-load training command lower premiums. Inexperienced drivers or those with traffic violations cost more. Some insurers require specific training for high-value load transport. Investing in driver training can reduce premiums and improve safety.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Tow Vehicle Suitability</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your tow vehicle must be suitable for your flatbed and loads. Using an undersized or unsuitable vehicle increases accident risk and may void insurance. Ensure your towing vehicle's gross vehicle weight and brake capacity match your typical loads. Commercial trucks properly rated for heavy towing cost less to insure than passenger vehicles struggling with trailer loads. Equipment matching is important for safety and insurance validity.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Operating Territory and Mileage</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Annual mileage affects premiums. High-mileage operations (frequent long-distance hauls) cost more than low-mileage operations. Operating primarily in certain regions may impact rates. Urban delivery routes have different risks than long-haul highway transport. Declaring your typical operating territory and annual kilometers helps insurers assess your actual risk profile and set appropriate premiums.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Choosing Appropriate Flatbed Coverage</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Commercial vs Standard Coverage Requirements</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">Commercial flatbed insurance</Link> is mandatory for business use. Standard personal insurance is inadequate for business operations and will be void if you use the trailer for trade. <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">Comprehensive commercial coverage</Link> protects against accidental damage, theft, vandalism, and weather damage—essential for work trailers. Ensure your policy rating matches your actual use.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Load Coverage and Cargo Insurance</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Flatbed insurance typically covers the trailer structure and securing systems. Materials or goods carried on the flatbed may need separate cargo insurance, depending on their value and nature. If you regularly transport high-value cargo, discuss cargo coverage options with your insurer. For construction materials or plant hire, clarify coverage boundaries—what's included in your flatbed policy versus what needs separate cargo cover.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Breakdowns and Recovery Services</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Heavy-duty trailers occasionally need emergency recovery—winching out, towing after breakdowns, or crane assistance. Some insurers include roadside assistance; others charge extra. For commercial operations, roadside assistance is worth considering. Recovery costs for heavy flatbeds can be substantial ($2000-$5000+). Adding recovery coverage provides peace of mind knowing you're covered if mechanical issues occur far from your base.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">NZ-Specific Considerations for Commercial Flatbed Operations</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Regional Operating Patterns and Risks</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Operating patterns vary across New Zealand. Auckland and Wellington commercial operations face urban congestion and theft risks. Regional New Zealand operations may involve remote locations with different weather challenges. South Island routes encounter more severe weather and longer distances. Insurers adjust premiums based on your primary operating regions. Honest declarations about where you regularly operate help insurers assess your specific risks.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Work Site Security and Parking</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Where you park your flatbed overnight affects insurance and security. Parked at secure compounds or locked facilities? Rates are lower. Parked on site or street parking? Rates are higher and theft risk increases. Some insurers require secure parking for overnight storage. Using monitored compound parking, security gates, and well-lit areas reduces theft risk and insurance costs.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Maintenance and Compliance Records</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Commercial flatbeds must meet maintenance standards. Regular brake testing, mechanical inspections, and safety certification (if required) demonstrate responsible operation. Keep detailed maintenance records. Insurers may require maintenance history when assessing claims. Poor maintenance can result in claim denials or premium increases. Professional maintenance management protects your investment and insurance validity.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Finding Competitive Commercial Flatbed Insurance</h2>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/compare" className="text-amber-600 hover:text-amber-700 font-semibold underline">Comparing commercial flatbed insurance from multiple providers</Link> ensures you get competitive rates. Different insurers specialize in different sectors—some focus on construction, others on logistics or agriculture. Getting quotes from specialists in your industry often yields better rates than generic insurers.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Review your policy annually. Operating changes, fleet adjustments, or improved safety records may reduce premiums. Some insurers offer performance discounts for claims-free years. Multi-trailer discounts apply if you operate several flatbeds. <Link href="/contact" className="text-amber-600 hover:text-amber-700 font-semibold underline">Contact us for quotes from leading commercial insurers</Link> to find the best value for your flatbed operations.
+              </p>
             </div>
           </div>
         </section>

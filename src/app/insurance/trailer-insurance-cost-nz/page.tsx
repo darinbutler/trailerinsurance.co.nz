@@ -100,7 +100,7 @@ export default function TrailerInsuranceCostPage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Trailer Insurance Cost NZ
+                Trailer Insurance Cost
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   What You'll Really Pay for Coverage
                 </span>
@@ -137,6 +137,82 @@ export default function TrailerInsuranceCostPage() {
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
                 These ranges are based on typical New Zealand insurance premiums for comprehensive cover. Actual costs vary by individual circumstances, provider, and specific coverage options.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Understanding the Cost Difference Between Coverage Types</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Third-Party Liability vs Comprehensive</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/third-party-liability" className="text-amber-600 hover:text-amber-700 font-semibold underline">Third-party liability insurance</Link> covers damage you cause to other people's property and vehicles. It doesn't cover your own trailer damage. This is the cheapest option, often $150-$400 annually for basic trailers. However, if your trailer is damaged in an accident, theft, or vandalism, you pay all repair costs out of pocket.
+              </p>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">Comprehensive coverage</Link> includes damage to your own trailer from accidents, theft, vandalism, and weather events. This costs significantly more—typically 2-4 times the third-party liability cost—but provides complete protection. Most valuable trailers and business users choose comprehensive for this security.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Contents Insurance Premiums</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">Contents insurance</Link> protects the valuable items inside your enclosed trailer—tools, equipment, inventory, materials. The cost depends on what you're insuring. A typical contents limit of $5,000 might add $150-$300 annually to your premium, while a $20,000 contents limit could add $500-$1,000. The higher your declared cargo value, the higher your contents premium.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Trailer Insurance Cost Breakdown by Factor</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trailer Value Impact</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your trailer's declared value is one of the biggest cost factors. Insurance companies use your trailer's value to determine replacement costs in case of total loss. A $60,000 enclosed trailer will have a much higher premium than a $10,000 box trailer. When getting your trailer insured, have an accurate valuation done. Undervaluing your trailer saves premium money now but means you'll be undercompensated if there's a total loss. Overvaluing increases premiums unnecessarily.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trailer Age and Condition Effects</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Older trailers often cost more to insure because repair parts are harder to find and repairs may be more expensive. A well-maintained 10-year-old trailer in excellent condition might have lower premiums than a neglected 5-year-old trailer. Providing documentation of regular maintenance and servicing can help justify lower premiums. Conversely, trailers with poor maintenance records face higher premiums or coverage restrictions.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Usage Type and Frequency</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                How you use your trailer significantly affects cost. Personal recreational use (occasional camping or horse transport) is generally cheaper than commercial business use. Regular business use—daily towing for work—costs more because of higher accident risk. Seasonal use (only during summer holidays) might qualify for discounts. Professional vehicle transport or commercial fleet operations cost the most due to higher liability exposure.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Location and Parking Arrangements</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Where your trailer is parked dramatically affects your premium. Secure storage in a locked garage reduces cost by 15-25% compared to street parking. Trailers parked in high-theft areas (inner-city locations) cost more to insure. Rural areas with lower crime rates often have lower premiums. If you can arrange secure parking at your business premises or use a professional storage facility, the insurance savings will be substantial and compound over years.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Security Measures and Discounts</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Installing approved security equipment can reduce your premium by 5-20% depending on what you install. Wheel clamps and coupling locks (5-10% discount) are basic. Motion sensors, GPS tracking, or alarm systems can earn additional discounts. Reinforced doors or hidden location features might qualify for further reductions. These discounts often offset the security equipment cost within 1-2 years.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Finding the Best Trailer Insurance Price</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Why Prices Vary So Much Between Insurers</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Different insurers assess risk differently and have different claim experiences. An insurer that has had many theft claims in your area might charge higher premiums than one that hasn't. Some specialize in certain trailer types and offer better rates. Others have economies of scale that let them offer competitive pricing. For identical coverage on the same trailer, you might see quotes ranging from $400 to $700 annually. This is why <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">comparing quotes from multiple providers</Link> is essential.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Multi-Policy and Loyalty Discounts</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Bundling your trailer insurance with home, vehicle, or other policies typically saves 10-15%. If you keep your policies with the same insurer for multiple years, loyalty discounts can add another 5-10%. Some insurers offer membership discounts (AA members, for example). These discounts compound—combining a multi-policy discount, loyalty discount, and security discount can reduce your effective cost by 25-35%.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Excess Strategy and Premium Impact</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your excess choice directly affects your premium. A $250 excess might cost $650 annually, while a $1000 excess could be just $550—a 15% saving. Over 5 years, that's $500 in savings. The trade-off is that you'll pay more out of pocket if you claim. For careful operators with excellent safety records and no recent claims, a higher excess often makes financial sense. Calculate your expected claim probability before choosing.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Cost Savings for Specific Trailer Types</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Caravan Insurance Costs</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Caravan insurance</Link> typically costs $400-$900 annually depending on caravan value and condition. Newer, better-maintained caravans with upgraded security cost less. If you use your caravan only occasionally (less than 30 days annually), you might qualify for seasonal discounts.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Boat Trailer and Horse Float Insurance</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/insurance/boat-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Boat trailer insurance</Link> and horse float insurance are specialized categories with unique risks. <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Horse float coverage</Link> typically costs $450-$1000 depending on facilities and usage. These specialized trailers may be more expensive to insure because fewer insurers cover them and repair specialists are less common.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Commercial and Business Trailer Costs</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">Commercial trailer insurance</Link> for flatbeds, car carriers, and enclosed commercial trailers costs more due to higher liability exposure and business use. A commercial enclosed trailer might cost $500-$1200 annually depending on load capacity and usage. However, bulk discounts apply if you insure multiple commercial trailers—fleet insurance for 3+ trailers can reduce the per-unit cost significantly.
               </p>
             </div>
           </div>

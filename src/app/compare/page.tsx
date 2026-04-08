@@ -105,10 +105,18 @@ export default function ComparePage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-amber-50 to-white">
-        <div className="max-w-4xl mx-auto">
-          <h1 className="text-4xl sm:text-5xl font-bold text-slate-900 mb-6">Compare NZ Trailer Insurance Providers</h1>
-          <p className="text-xl text-slate-700">See how the top 6 NZ insurers stack up on coverage, features, and value.</p>
+      <section
+        className="relative py-20 sm:py-28 px-4 sm:px-6 lg:px-8"
+        style={{
+          backgroundImage: 'url(https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&h=1080&fit=crop)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+        }}
+      >
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-900/90 to-slate-900/60" />
+        <div className="relative max-w-4xl mx-auto">
+          <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">Compare Trailer Insurance Providers</h1>
+          <p className="text-xl text-slate-200">See how the top 6 NZ insurers stack up on coverage, features, and value.</p>
         </div>
       </section>
 

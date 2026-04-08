@@ -89,7 +89,7 @@ export default function BoatTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Boat Trailer Insurance NZ
+                Boat Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Specialist Cover for Water Enthusiasts
                 </span>
@@ -171,6 +171,30 @@ export default function BoatTrailerInsurancePage() {
                 <li><strong>Inflatable Boat Trailers:</strong> Light-duty trailers for RIBs and inflatables</li>
               </ul>
 
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Choosing the Right Coverage Type for Your Boat Trailer</h2>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                When protecting your boat trailer, you have two main coverage options: <Link href="/types/third-party-liability" className="text-amber-600 hover:text-amber-700 font-semibold underline">third-party liability</Link> and <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive coverage</Link>. Third-party covers damage you cause to others' property, making it the legal minimum. However, for boat trailers—especially valuable ones—comprehensive coverage is typically the better choice because it protects your own investment against theft, water damage, and accidents.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Many boat owners also add <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">contents insurance</Link> to protect valuable equipment transported with the trailer, such as fishing gear, safety equipment, or maintenance tools. This additional cover bridges the gap between what trailer insurance covers and what your personal possessions need.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-8">
+                The best approach is to compare policies side-by-side. Our <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">trailer insurance comparison guide</Link> walks you through all your options so you can make an informed decision.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Boat Trailer Insurance vs Other Trailer Types</h2>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Boat trailers have unique insurance requirements compared to other trailer types. A <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">caravan trailer</Link> is typically stationary or moves slowly on highways, while boat trailers face rapid corrosion from saltwater and frequent stress from backing down boat ramps at steep angles. Horse floats focus on animal safety and welfare, whereas boat trailers need specific marine equipment coverage.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-8">
+                Additionally, boat trailers may qualify for different discounts based on security measures (such as coupling locks), storage location, and usage patterns. When comparing quotes, make sure providers understand your specific boating activities and storage setup so they offer appropriate coverage.
+              </p>
+
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Top NZ Insurers for Boat Trailers</h2>
 
               <div className="bg-white p-8 rounded-2xl border border-slate-200 mb-6">
@@ -210,6 +234,20 @@ export default function BoatTrailerInsurancePage() {
                 <li>Ensure your towing vehicle is suitable for your boat and trailer weight</li>
                 <li>Take photographs of your trailer and record its condition before any boating season</li>
               </ul>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Seasonal Boating and Off-Season Insurance Strategies</h2>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                New Zealand's boating season peaks during summer months (December to February), but many boat owners only use their trailers seasonally. If you only boat during specific months, you have options to reduce insurance costs. Some insurers offer seasonal policies that pause or reduce coverage during off-season months when your trailer sits unused. This can provide significant savings compared to paying full premiums year-round.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                When your boat trailer is in storage during off-season, proper protection is critical. Store your trailer in a secure, covered facility if possible, use wheel clamps and coupling locks, and apply protective coatings to metal surfaces to prevent rust and corrosion. Even during storage, corrosion can occur from moisture and temperature fluctuations, so maintain regular ventilation and keep the trailer dry.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-8">
+                Before boating season begins, perform a thorough inspection of your trailer and discuss any new risks with your insurer. Check brakes, lights, suspension, and corrosion damage. If you've made modifications to your boat or upgraded equipment, notify your insurer as these changes may affect your coverage or premiums.
+              </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Common Boat Trailer Insurance Questions</h2>
 

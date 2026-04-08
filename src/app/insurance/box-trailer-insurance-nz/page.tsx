@@ -89,7 +89,7 @@ export default function BoxTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Box Trailer Insurance NZ
+                Box Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Coverage for Your Utility and Storage Trailers
                 </span>
@@ -212,6 +212,94 @@ export default function BoxTrailerInsurancePage() {
                 <li>Take photos of your trailer and document its condition annually</li>
                 <li>Compare quotes from multiple insurers to find the best value</li>
               </ul>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Common Box Trailer Claims and Scenarios</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Impact Damage and Road Accidents</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Collision damage is among the most frequent box trailer claims. Backing into bollards, hitting low structures when reversing, or side-impact collisions while towing all cause significant damage. Accidental damage coverage protects against these incidents, though you pay an agreed excess. Always report accidents promptly to your insurer and provide photos of damage, vehicle positions, and any witness contact details.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Theft and Break-Ins</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Work site theft is a serious issue for box trailer owners. Thieves break into trailers to steal tools, equipment, and materials. Comprehensive insurance covers theft and break-in damage. To qualify for theft cover, you must use approved security—wheel clamps, coupling locks, and ideally alarm systems. Report thefts immediately to police and provide the crime reference number to your insurer.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Brake and Electrical Failures</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Brake failures can occur suddenly on working trailers. If brakes fail due to accident damage or impact (not normal wear), insurance covers repairs. Similarly, electrical failures from accidents or impacts are covered. However, standard insurance excludes mechanical breakdowns from normal wear. Optional mechanical breakdown coverage can protect against system failures if you want comprehensive protection.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Vandalism and Damage at Work Sites</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Trailers left at work sites attract vandals who damage locks, break doors, or slash covers. Comprehensive policies cover vandalism damage. Prevention is key—park in well-lit, monitored areas when possible. Use wheel clamps and couple locks to deter opportunistic thieves. Document any vandalism with photos before cleanup, and report to police if significant damage occurs.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Box Trailer Insurance Premium Factors</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Usage Type: Personal vs Commercial</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your declared usage significantly affects premiums. Personal-use trailers (for DIY projects or occasional moving) are cheaper than commercial-use trailers (for trade or regular business). If you use your trailer for business activities but insure it as personal use, claims may be denied. Always declare your actual usage accurately. Commercial coverage isn't always prohibitively expensive—it's worth getting proper quotes for your intended use.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Storage Location and Security</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Where you park your trailer dramatically affects premiums. Trailers in secure storage (locked compound, garage, controlled parking) cost significantly less to insure than those parked on street or at exposed work sites. Upgrading your storage security—adding locked compound access or moving to managed parking—can reduce premiums. Some insurers offer 15-25% discounts for secure storage.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Security Features and Devices</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Security devices qualify for insurance discounts. Approved wheel clamps save 5-10%, quality coupling locks add protection, and alarm systems or GPS trackers can save 10-15%. The cost of good security devices often pays for itself through reduced premiums within 1-2 years. Beyond insurance savings, these devices genuinely protect your investment.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Box Trailer Value and Contents</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your trailer's replacement value determines base premiums. Higher-value trailers cost more to insure. If you add valuable equipment or tools inside, contents insurance premiums increase accordingly. However, leaving expensive tools inside an uninsured trailer is risky—an affordable contents policy often costs less than replacing stolen equipment.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Choosing the Right Coverage for Your Trailer</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Third-Party Liability vs Comprehensive Protection</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/third-party-liability" className="text-amber-600 hover:text-amber-700 font-semibold underline">Third-party liability insurance</Link> is the legal minimum for trailers in New Zealand, covering damage you cause to others' property or vehicles. However, it doesn't protect your box trailer. Most owners choose <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive coverage</Link>, which protects your trailer against accident damage, theft, vandalism, and other perils.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Adding Contents Insurance</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">Contents insurance</Link> protects tools, equipment, and materials you store inside. This is essential for work trailers carrying valuable equipment. Contents policies cover theft, impact damage, and weather damage to items inside. Many insurers allow you to add contents cover as an optional extra to your basic box trailer policy.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Excess Amounts and Affordability</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Choose an excess (deductible) you can afford. Smaller excesses ($250-$500) mean lower out-of-pocket costs when you claim but higher premiums. Larger excesses ($1000+) reduce premiums but increase your personal financial risk. Many owners balance this by selecting $500-$750 excesses that match their financial capacity while controlling premiums.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Box Trailer Insurance for Different Uses</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">DIY and Home Project Use</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Homeowners using box trailers for occasional DIY projects can often use personal use policies. These tend to be more affordable than commercial rates. Declare your usage honestly—if you're moving between multiple projects monthly, that's approaching commercial use. Getting a competitive personal-use quote is straightforward; if your usage is borderline, ask insurers directly whether you qualify for personal rates.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trade and Small Business Use</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Tradies and small business owners need <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">commercial trailer coverage</Link> appropriate for their regular work. Commercial policies accommodate frequent work site use, regular equipment transport, and business operations. While premiums are higher than personal use, commercial rates are competitive. Many insurers specialize in trade customers and offer good rates and claims support for work trailers.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Seasonal and Occasional Use</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If you use your trailer seasonally or infrequently, ask about reduced premiums during storage months. Some insurers offer winter or off-season discounts. Conversely, declaring sporadic use (a few trips per year) may qualify you for lower personal-use rates than frequent commercial use. Be honest about frequency so your policy matches your actual usage pattern.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Saving Money on Box Trailer Insurance</h2>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/insurance/cheap-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Finding affordable box trailer insurance</Link> requires comparison shopping and understanding cost factors. Get quotes from multiple insurers—premiums vary significantly. Install security features to qualify for discounts. Choose appropriate coverage matching your actual needs rather than paying for unnecessary add-ons. <Link href="/compare" className="text-amber-600 hover:text-amber-700 font-semibold underline">Compare options from leading NZ insurers</Link> to find the best value for your situation.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Review your policy annually. Claims history, age of your trailer, and security improvements all affect pricing. Switching insurers if you find better rates is common. Many insurers offer discounts for new customers or multi-policy bundling. Don't just renew automatically—actively shop your insurance each year to ensure you're paying competitive rates.
+              </p>
             </div>
           </div>
         </section>

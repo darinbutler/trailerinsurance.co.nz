@@ -89,7 +89,7 @@ export default function CamperTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Camper Trailer Insurance NZ
+                Camper Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Protect Your Adventure on the Road
                 </span>
@@ -200,6 +200,94 @@ export default function CamperTrailerInsurancePage() {
                 <li>Review your policy annually to ensure coverage matches your needs</li>
                 <li>Keep your camper properly ventilated to prevent mold and moisture damage</li>
               </ul>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Common Camper Trailer Claims and What's Covered</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Impact Damage and Collisions</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                One of the most common claims for camper trailers involves impact damage—backing into objects, colliding with other vehicles while towing, or hitting obstacles on narrow roads. These accidents can cause significant damage to the pop-top mechanism, walls, windows, and chassis. Accidental damage coverage handles these incidents, though you'll typically pay an excess. Keep detailed photos of the damage for your insurer and cooperate fully with their assessors.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Weather-Related Damage and Natural Disasters</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                New Zealand's unpredictable weather can damage camper trailers. High winds tear awnings and damage pop-top seals, heavy rain infiltrates water systems, hail damages canvas and fibreglass, and storms cause impact damage. Comprehensive policies cover these weather-related incidents. However, wear and tear from normal weather exposure isn't covered. Regular maintenance helps distinguish between covered weather damage and maintenance issues.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Mechanical and Electrical Failures</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Pop-top hydraulic systems can fail unexpectedly. Water pump failures, battery drain, solar panel malfunctions, and gas appliance breakdowns are common issues. Standard insurance covers accidental damage to these systems but typically excludes mechanical breakdown due to wear and tear. Optional mechanical breakdown coverage can be added for an extra premium if you want protection against system failures.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Theft and Security Breaches</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Campers left at campgrounds or remote locations are theft targets. Comprehensive policies cover theft of the entire unit or break-ins where thieves steal equipment or valuables. To qualify for theft cover, you typically need approved security devices—wheel clamps, coupling locks, or alarm systems. Report thefts to police immediately and provide incident reports to your insurer.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Cost Factors for Camper Trailer Insurance</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Replacement Value and Excess Amount</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your premium is partially based on your camper's agreed replacement value. Higher values mean higher premiums. You also choose your excess amount—the portion you pay towards each claim. A higher excess ($1000+) reduces premiums but increases your out-of-pocket costs when you claim. Many owners balance this by choosing moderate excesses ($500) that match their financial capacity.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Travel Patterns and Usage Declarations</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Your declared usage significantly affects premiums. Campers used for frequent long-distance adventures pay more than those used for occasional weekend trips. Remote destination travel typically commands higher premiums than coastal camping. Honest usage declarations are essential—misrepresenting your travel patterns can result in claim denial.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Security Features and Discounts</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Installing approved security devices reduces your premiums. Wheel clamps, coupling locks, alarm systems, and GPS trackers all qualify for discounts. Some insurers offer 10-15% reductions for approved security. These devices not only reduce your insurance costs but also genuinely deter thieves, making your camper less attractive to steal.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Driver Age and Driving Record</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Younger drivers and those with poor driving records pay higher premiums. Maintaining a clean driving record, completing defensive driving courses, and accumulating no-claim bonuses all reduce costs over time. Some insurers offer young driver discounts after completing approved driver training courses.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">How to Choose the Right Camper Trailer Policy</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Comparing Coverage Types: Third-Party vs Comprehensive</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                <Link href="/types/third-party-liability" className="text-amber-600 hover:text-amber-700 font-semibold underline">Third-party liability insurance</Link> is the legal minimum, covering damage you cause to others' property. However, it doesn't protect your camper. <Link href="/types/comprehensive" className="text-amber-600 hover:text-amber-700 font-semibold underline">Comprehensive coverage</Link> protects your camper against damage, theft, and accidents. Most camper owners choose comprehensive for the complete protection it provides.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Optional Add-Ons Worth Considering</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Beyond basic comprehensive coverage, consider optional add-ons. <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">Contents protection</Link> covers personal camping equipment inside your camper—sleeping bags, cooking gear, clothing, and electronics. Mechanical breakdown cover protects appliance and system failures. Roadside assistance and emergency repair coverage can be invaluable when breakdowns occur far from home.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Agreed Value vs Market Value</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Ask your insurer about agreed value policies. With agreed value, you and the insurer agree on your camper's replacement cost upfront. If a total loss occurs, you receive the agreed amount without depreciation disputes. This is typically more favorable for specialty campers than standard market value assessments.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">NZ-Specific Considerations for Camper Insurance</h2>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Regional Risk Variations Across New Zealand</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Insurance premiums vary based on where you typically park your camper. Auckland and Wellington city camping areas may have higher theft risks. Remote backcountry camping in DOC campsites presents different risks. Coastal areas face weather and salt-spray damage. Insurers adjust premiums based on your primary usage regions. Being honest about your actual travel patterns helps ensure appropriate coverage.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Off-Road Camping and Department of Conservation Sites</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                If you frequently camp at DOC sites or other remote locations, inform your insurer. Some policies have restrictions on off-road travel or remote area camping. Conversely, many insurers appreciate that DOC sites have managed facilities and relatively low theft risk. Discussing your actual camping destinations helps match your policy to your activities.
+              </p>
+
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Seasonal Use and Winter Storage</h3>
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Many NZ campers are seasonal—heavy use in summer, storage in winter. Some insurers offer reduced premiums for seasonal cover or discounts during storage months when your camper isn't actively traveled. Ask about hibernation or seasonal reduction options that acknowledge periods when your camper sits unused.
+              </p>
+
+              <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Comparing Camper Trailer Insurers</h2>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Choosing between insurers requires comparing more than just price. Check claims response times—critical when you're stranded with a broken camper. Review repair networks—do they work with specialists who understand pop-top mechanisms? Look at customer service ratings and how they handle adventure travelers. <Link href="/compare" className="text-amber-600 hover:text-amber-700 font-semibold underline">Compare quotes from multiple providers</Link> to understand pricing and coverage options, then review the details before selecting your policy.
+              </p>
+
+              <p className="text-lg text-slate-700 leading-relaxed mb-6">
+                Contact insurers directly to discuss your specific needs. If you're planning extended overseas travel (some campers drive to Australia), confirm coverage during international adventures. Adventure travel requirements vary between insurers, so discussing your plans ensures you get appropriate coverage for your actual usage.
+              </p>
             </div>
           </div>
         </section>

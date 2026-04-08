@@ -110,7 +110,7 @@ export default function BestTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Best Trailer Insurance NZ
+                Best Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Compare Top Providers and Get the Best Deal
                 </span>

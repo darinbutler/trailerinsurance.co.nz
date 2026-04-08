@@ -89,7 +89,7 @@ export default function CaravanInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Caravan Insurance NZ
+                Caravan Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Complete Peace of Mind for Your Adventures
                 </span>

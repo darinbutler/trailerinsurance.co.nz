@@ -130,7 +130,7 @@ export default function CheapTrailerInsurancePage() {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Cheap Trailer Insurance NZ
+                Cheap Trailer Insurance
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
                   Save Hundreds on Your Cover
                 </span>

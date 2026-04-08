@@ -7,6 +7,7 @@ import HowItWorks from '@/components/HowItWorks';
 import Testimonials from '@/components/Testimonials';
 import CTABanner from '@/components/CTABanner';
 import QuoteForm from '@/components/QuoteForm';
+import HeroCarousel from '@/components/HeroCarousel';
 import { faqs } from '@/data/faqs';
 import {
   Shield,
@@ -134,15 +135,8 @@ export default function HomePage() {
 
       <main>
         {/* Hero Section */}
-        <section
-          className="relative min-h-[90vh] lg:min-h-[100vh] flex items-center"
-          style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1920&h=1080&fit=crop)',
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-          }}
-        >
-          <div className="absolute inset-0 bg-gradient-to-r from-slate-900/90 to-slate-900/60" />
+        <section className="relative min-h-[90vh] lg:min-h-[100vh] flex items-center overflow-hidden">
+          <HeroCarousel />
 
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full pt-28 pb-16 lg:pt-0 lg:pb-0">
             <div className="max-w-3xl">
