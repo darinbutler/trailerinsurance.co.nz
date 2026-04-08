@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     "trailer insurance quote nz",
   ],
   authors: [{ name: "TrailerInsurance.co.nz" }],
-  canonical: "https://trailerinsurance.co.nz",
+  alternates: { canonical: "https://trailerinsurance.co.nz" },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
   openGraph: {
     type: "website",
