@@ -68,9 +68,9 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
             {[
-              { label: 'Trailers Insured', value: '10,000+' },
-              { label: 'Partner Brokers', value: '50+' },
-              { label: 'Kiwis Served', value: 'All Regions' },
+              { label: 'Years Experience', value: '15+' },
+              { label: 'NZ Owned & Operated', value: '✓' },
+              { label: 'Fast Impartial Quotes', value: '24hr' },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="text-4xl font-bold text-amber-600 mb-2">{stat.value}</div>
@@ -207,7 +207,7 @@ export default function AboutPage() {
             </p>
             <ul className="space-y-4">
               {[
-                'Compare 50+ NZ insurance providers in one place',
+                'Compare leading NZ insurance providers in one place',
                 'No broker fees — ever',
                 'Response from a licensed broker within 24 hours',
                 'All your trailer type options covered: caravans, boat trailers, horse floats, and more',
