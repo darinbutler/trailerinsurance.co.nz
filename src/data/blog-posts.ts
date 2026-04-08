@@ -110,7 +110,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Trailer theft is on the rise in New Zealand. Here\'s how to protect your investment with security measures and insurance.',
     date: '2026-03-12',
     author: 'TrailerInsurance.co.nz',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=450&fit=crop',
+    image: 'https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=800&h=450&fit=crop',
     readTime: '5 min read',
     content: `<p>Trailer theft is a growing problem across New Zealand. Trailers are attractive targets for thieves because they're often left unattended, are easy to hitch and tow away, and can be quickly modified to avoid identification. Here's how to protect yours.</p>
 
@@ -151,7 +151,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'When disaster strikes, knowing how to navigate the claims process can make all the difference. Here\'s your step-by-step guide.',
     date: '2026-03-02',
     author: 'TrailerInsurance.co.nz',
-    image: 'https://images.unsplash.com/photo-1450101499163-c8848e66ad76?w=800&h=450&fit=crop',
+    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=450&fit=crop',
     readTime: '6 min read',
     content: `<p>Making an insurance claim can feel stressful, but being prepared and knowing the process can help ensure a smooth experience. Here's how to handle a trailer insurance claim in New Zealand.</p>
 

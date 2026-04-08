@@ -112,7 +112,7 @@ export default function CommercialPage() {
         <section
           className="relative min-h-[80vh] flex items-center"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1581092914211-2dfa8f0d42a3?w=1920&h=1080&fit=crop)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1920&h=1080&fit=crop)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}

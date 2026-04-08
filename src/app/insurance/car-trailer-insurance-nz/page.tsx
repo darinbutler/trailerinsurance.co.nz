@@ -74,7 +74,7 @@ export default function CarTrailerInsurancePage() {
         <section
           className="relative min-h-[80vh] flex items-center"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1605559424843-9e4c3ca3806d?w=1920&h=1080&fit=crop)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1586861203927-800a5acdcc4d?w=1920&h=1080&fit=crop)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}

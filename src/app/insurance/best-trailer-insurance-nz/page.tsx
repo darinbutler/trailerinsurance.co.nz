@@ -95,7 +95,7 @@ export default function BestTrailerInsurancePage() {
         <section
           className="relative min-h-[80vh] flex items-center"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1460925895917-aae19e938282?w=1920&h=1080&fit=crop)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=1080&fit=crop)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}
