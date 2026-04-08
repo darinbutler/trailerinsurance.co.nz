@@ -69,7 +69,7 @@ export default function CommercialPage() {
     },
     {
       title: 'Freight & Courier Services',
-      description: 'Specialized coverage for parcels, documents, and goods being transported for commercial delivery.',
+      description: 'Specialised coverage for parcels, documents, and goods being transported for commercial delivery.',
     },
     {
       title: 'Agricultural Operations',
@@ -95,7 +95,7 @@ export default function CommercialPage() {
             '@context': 'https://schema.org',
             '@type': 'InsuranceProduct',
             name: 'Commercial & Carriers Liability Trailer Insurance',
-            description: 'Specialized cover for business trailers, tools, heavy transport, and commercial equipment',
+            description: 'Specialised cover for business trailers, tools, heavy transport, and commercial equipment',
             provider: {
               '@type': 'LocalBusiness',
               name: 'TrailerInsurance.co.nz',
@@ -129,11 +129,11 @@ export default function CommercialPage() {
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
                 Commercial & Carriers Liability
                 <span className="block bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
-                  Specialized Business Coverage
+                  Specialised Business Coverage
                 </span>
               </h1>
               <p className="text-lg sm:text-xl text-slate-200 mb-8 max-w-2xl leading-relaxed">
-                Protect your business operations with specialized trailer insurance for commercial equipment, heavy transport, and valuable cargo. Tailored for contractors, moving companies, and commercial operators.
+                Protect your business operations with specialised trailer insurance for commercial equipment, heavy transport, and valuable cargo. Tailored for contractors, moving companies, and commercial operators.
               </p>
 
               <Link href="/#quote-form" className="bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white font-bold py-3.5 px-8 rounded-xl transition-all duration-300 inline-flex items-center justify-center gap-2 shadow-lg shadow-amber-500/25 hover:shadow-xl hover:-translate-y-0.5">
@@ -149,7 +149,7 @@ export default function CommercialPage() {
             <div className="prose prose-slate max-w-none">
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Commercial Trailer Insurance Explained</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Commercial and carriers liability insurance is specifically designed for businesses that rely on trailers for their operations. Whether you're a contractor transporting tools, a moving company carrying household goods, or a logistics operator moving freight, commercial trailer insurance provides specialized coverage tailored to business risks.
+                Commercial and carriers liability insurance is specifically designed for businesses that rely on trailers for their operations. Whether you're a contractor transporting tools, a moving company carrying household goods, or a logistics operator moving freight, commercial trailer insurance provides specialised coverage tailored to business risks.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
@@ -157,7 +157,7 @@ export default function CommercialPage() {
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
-                NZ insurers like AA Insurance, State Insurance, Tower, and specialized providers understand the unique risks businesses face when operating trailers. Commercial policies often include features standard personal policies don't offer, such as coverage for cargo value, employee coverage, and higher liability limits.
+                NZ insurers like AA Insurance, State Insurance, Tower, and specialised providers understand the unique risks businesses face when operating trailers. Commercial policies often include features standard personal policies don't offer, such as coverage for cargo value, employee coverage, and higher liability limits.
               </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">What's Covered in Commercial Trailer Insurance?</h2>
@@ -204,7 +204,7 @@ export default function CommercialPage() {
                 <li><strong>Breakdown cover:</strong> Recovery and repair of mechanical/electrical failures</li>
                 <li><strong>Lost earnings:</strong> Compensation for lost income while your trailer is being repaired</li>
                 <li><strong>Trailer hire:</strong> Cost of hiring a replacement trailer while repairs are underway</li>
-                <li><strong>Tools cover:</strong> Specialized protection for individual valuable tools</li>
+                <li><strong>Tools cover:</strong> Specialised protection for individual valuable tools</li>
                 <li><strong>Spoilage cover:</strong> For refrigerated goods or perishables</li>
               </ul>
 
@@ -327,7 +327,7 @@ export default function CommercialPage() {
                 <li><strong>Notify immediately:</strong> Report the incident within 24 hours if possible</li>
                 <li><strong>Preserve evidence:</strong> Keep damaged goods and take photographs</li>
                 <li><strong>Get documentation:</strong> Police reports, receipts, repair quotes, invoice for goods</li>
-                <li><strong>Minimize losses:</strong> Take reasonable steps to prevent further damage or loss</li>
+                <li><strong>Minimise losses:</strong> Take reasonable steps to prevent further damage or loss</li>
                 <li><strong>Provide details:</strong> Complete claim form with full incident details and cargo information</li>
                 <li><strong>Submit supporting docs:</strong> Provide all evidence to support your claim</li>
               </ol>
@@ -475,9 +475,9 @@ export default function CommercialPage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">Mariner Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  Mariner specializes in specialist and high-value cargo transport, including marine, equipment, and specialized goods. Expert knowledge of commercial transport risks.
+                  Mariner specialises in specialist and high-value cargo transport, including marine, equipment, and specialised goods. Expert knowledge of commercial transport risks.
                 </p>
-                <p className="text-slate-600 text-sm">Ideal for high-value or specialized commercial cargo.</p>
+                <p className="text-slate-600 text-sm">Ideal for high-value or specialised commercial cargo.</p>
               </div>
             </div>
           </div>
@@ -493,7 +493,7 @@ export default function CommercialPage() {
                   Commercial trailer insurance is an essential investment in your business continuity. Whether you're a contractor, moving company, or logistics operator, proper coverage protects your equipment, cargo, and liability exposure.
                 </p>
                 <p className="text-lg text-slate-700">
-                  Get personalized commercial insurance quotes from top NZ insurers in just 2 minutes. Compare coverage options and find the right policy for your business.
+                  Get personalised commercial insurance quotes from top NZ insurers in just 2 minutes. Compare coverage options and find the right policy for your business.
                 </p>
               </div>
               <div>

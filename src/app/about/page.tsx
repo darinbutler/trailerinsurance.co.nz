@@ -112,7 +112,7 @@ export default function AboutPage() {
                 What sets us apart is that you never pay broker fees. Our system is designed to be cost-effective for everyone. Insurers value the quality leads we send, and that efficiency gets passed directly to you through no-fee quotes. Learn more about comparing your options in our <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">comprehensive comparison guide</Link>.
               </p>
               <p className="text-slate-700 text-lg">
-                Within 24 hours, you'll hear from a broker with personalized recommendations and clear comparisons showing premium costs, coverage levels, excess options, and available add-ons. You can then choose the policy that offers the best value for your situation.
+                Within 24 hours, you'll hear from a broker with personalised recommendations and clear comparisons showing premium costs, coverage levels, excess options, and available add-ons. You can then choose the policy that offers the best value for your situation.
               </p>
             </div>
 
@@ -138,7 +138,7 @@ export default function AboutPage() {
                 Our broker network consists of professionals with years of experience in New Zealand's insurance industry. They've guided thousands of Kiwis through choosing the right coverage and navigating claims processes. Many have personal experience with trailers, caravans, boats, and horses, giving them real-world understanding of the risks you face.
               </p>
               <p className="text-slate-700 text-lg mb-4">
-                Brokers on our platform understand that insurance isn't one-size-fits-all. A young professional with a new utility trailer has different needs than a retiree towing a caravan across the country. A boat enthusiast needs specialized marine coverage, while a horse float owner requires different protections. Our brokers take time to understand your specific situation and recommend accordingly.
+                Brokers on our platform understand that insurance isn't one-size-fits-all. A young professional with a new utility trailer has different needs than a retiree towing a caravan across the country. A boat enthusiast needs specialised marine coverage, while a horse float owner requires different protections. Our brokers take time to understand your specific situation and recommend accordingly.
               </p>
               <p className="text-slate-700 text-lg mb-4">
                 Beyond just finding quotes, our brokers provide ongoing support. They explain policy terms in plain English, help you understand what's covered and what isn't, and guide you through claims if needed. They're advocates for their customers, working to resolve issues and ensure you get fair treatment throughout your policy term.
@@ -232,7 +232,7 @@ export default function AboutPage() {
       {/* CTA Banner */}
       <CTABanner
         title="Ready to Protect Your Trailer?"
-        description="Get personalized quotes from NZ's top providers in just 2 minutes."
+        description="Get personalised quotes from NZ's top providers in just 2 minutes."
         buttonText="Get a Free Quote"
         buttonLink="/#quote-form"
       />

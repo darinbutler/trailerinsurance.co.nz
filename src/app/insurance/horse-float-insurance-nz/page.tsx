@@ -20,7 +20,7 @@ export default function HorseFloatInsurancePage() {
     {
       icon: Shield,
       title: 'Accidental Damage & Repairs',
-      description: 'Protection against collision damage, impact damage, and accidents during transport. Quick claim settlement to minimize disruption.',
+      description: 'Protection against collision damage, impact damage, and accidents during transport. Quick claim settlement to minimise disruption.',
     },
     {
       icon: AlertTriangle,
@@ -111,11 +111,11 @@ export default function HorseFloatInsurancePage() {
             <div className="prose prose-slate max-w-none">
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Why Horse Float Insurance is Critical</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Horse floats represent a significant financial investment, often costing $15,000 to $50,000 or more depending on size, features, and build quality. Beyond the monetary value, your horse float is essential to your equestrian activities—whether you're competing at shows, traveling to events, or transporting horses for agistment or veterinary care.
+                Horse floats represent a significant financial investment, often costing $15,000 to $50,000 or more depending on size, features, and build quality. Beyond the monetary value, your horse float is essential to your equestrian activities—whether you're competing at shows, travelling to events, or transporting horses for agistment or veterinary care.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Unlike a caravan that sits stationary, horse floats are regularly in transit, exposing them to accident risks. They're parked at stables, events, and rural properties where theft and vandalism are concerns. They have specialized features—partitions, ventilation, ramps, internal fittings—that require equine-specific knowledge to replace properly after damage.
+                Unlike a caravan that sits stationary, horse floats are regularly in transit, exposing them to accident risks. They're parked at stables, events, and rural properties where theft and vandalism are concerns. They have specialised features—partitions, ventilation, ramps, internal fittings—that require equine-specific knowledge to replace properly after damage.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
@@ -126,12 +126,12 @@ export default function HorseFloatInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Float Structure and Partitions</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Quality insurance covers the entire float structure: chassis, body panels, roof, floor, ramps, and internal partitions. Horse floats are custom-built with specific partition systems, ventilation arrangements, and safety features. If your float is damaged in an accident, you need insurance that covers not just basic repairs but restoration of these specialized equine components.
+                Quality insurance covers the entire float structure: chassis, body panels, roof, floor, ramps, and internal partitions. Horse floats are custom-built with specific partition systems, ventilation arrangements, and safety features. If your float is damaged in an accident, you need insurance that covers not just basic repairs but restoration of these specialised equine components.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Ventilation and Air Quality Systems</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Modern horse floats feature specialized ventilation systems crucial for horse health during transport. These systems prevent heat stress and provide adequate air circulation. Insurance covers damage to ventilation ducting, grilles, and fans. A damaged ventilation system can make the float unsafe or uncomfortable for horses to travel in.
+                Modern horse floats feature specialised ventilation systems crucial for horse health during transport. These systems prevent heat stress and provide adequate air circulation. Insurance covers damage to ventilation ducting, grilles, and fans. A damaged ventilation system can make the float unsafe or uncomfortable for horses to travel in.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Ramps and Loading Equipment</h3>
@@ -168,7 +168,7 @@ export default function HorseFloatInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Show and Event Travel</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                If you travel extensively to shows and competitions, ensure your policy covers your travel patterns. Some policies limit usage or require disclosure of frequent traveling. Always declare where you typically travel.
+                If you travel extensively to shows and competitions, ensure your policy covers your travel patterns. Some policies limit usage or require disclosure of frequent travelling. Always declare where you typically travel.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Towing Vehicle Suitability</h3>

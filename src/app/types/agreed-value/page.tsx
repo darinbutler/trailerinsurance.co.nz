@@ -40,7 +40,7 @@ export default function AgreedValuePage() {
     },
     {
       aspect: 'Best For',
-      agreedValue: 'Classic trailers, horse floats, specialized equipment, well-maintained older models',
+      agreedValue: 'Classic trailers, horse floats, specialised equipment, well-maintained older models',
       marketValue: 'Standard caravans, newer trailers, common models',
     },
     {
@@ -198,12 +198,12 @@ export default function AgreedValuePage() {
                 Older caravans that are well-maintained can have values that don't follow typical depreciation curves. A 1970s vintage caravan in excellent condition might be worth more to enthusiasts than "market value" calculations suggest. Agreed value ensures you get fair compensation for a unique asset.
               </p>
 
-              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Specialized Horse Floats</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Specialised Horse Floats</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Quality horse floats can be expensive and highly specialized. Market value can be difficult to establish for these niche vehicles. An agreed value protects your investment by fixing the replacement cost upfront.
+                Quality horse floats can be expensive and highly specialised. Market value can be difficult to establish for these niche vehicles. An agreed value protects your investment by fixing the replacement cost upfront.
               </p>
 
-              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Heavily Customized Trailers</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Heavily Customised Trailers</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
                 If you've invested significantly in customizations, upgrades, or built-in equipment, market value might not account for these improvements. Agreed value allows you to include the value of custom work.
               </p>
@@ -332,7 +332,7 @@ export default function AgreedValuePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">Mariner Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  Mariner specializes in marine and trailer insurance with specialized valuation expertise for boat trailers, caravans, and horse floats.
+                  Mariner specialises in marine and trailer insurance with specialised valuation expertise for boat trailers, caravans, and horse floats.
                 </p>
                 <p className="text-slate-600 text-sm">Expert valuations for specialist trailers.</p>
               </div>
@@ -365,7 +365,7 @@ export default function AgreedValuePage() {
               <div className="bg-white p-6 rounded-2xl border border-slate-200">
                 <h3 className="font-bold text-slate-900 mb-3">Choose Agreed Value If:</h3>
                 <ul className="list-disc list-inside space-y-2 text-slate-700">
-                  <li>Your trailer is valuable ($15,000+) or specialized</li>
+                  <li>Your trailer is valuable ($15,000+) or specialised</li>
                   <li>It's a classic, custom, or heavily upgraded model</li>
                   <li>You want certainty about your settlement amount</li>
                   <li>Claims settlement speed is important to you</li>
@@ -399,7 +399,7 @@ export default function AgreedValuePage() {
                   When requesting a quote for trailer insurance, you can compare both agreed value and market value options from multiple NZ insurers. Our comparison service makes it easy to see the cost difference and choose what works best for your trailer.
                 </p>
                 <p className="text-lg text-slate-700">
-                  Get personalized quotes in just 2 minutes with no obligation to buy.
+                  Get personalised quotes in just 2 minutes with no obligation to buy.
                 </p>
               </div>
               <div>

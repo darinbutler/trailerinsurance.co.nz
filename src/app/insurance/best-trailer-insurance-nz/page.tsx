@@ -38,7 +38,7 @@ export default function BestTrailerInsurancePage() {
     {
       name: 'Mariner Insurance',
       icon: Award,
-      pros: ['Marine specialists', 'Expert knowledge', 'Boat trailer experts', 'Personalized service'],
+      pros: ['Marine specialists', 'Expert knowledge', 'Boat trailer experts', 'Personalised service'],
       coverage: ['Boat trailers', 'Marine equipment', 'Specialist coverage'],
       rating: 4.8,
     },
@@ -55,7 +55,7 @@ export default function BestTrailerInsurancePage() {
     { factor: 'Premium Price', description: 'Compare annual costs across providers' },
     { factor: 'Excess Flexibility', description: 'Choose excess levels that suit your risk tolerance' },
     { factor: 'Claims Processing', description: 'Fast, efficient claims handling and settlement' },
-    { factor: 'Coverage Flexibility', description: 'Customize cover to match your needs' },
+    { factor: 'Coverage Flexibility', description: 'Customise cover to match your needs' },
     { factor: 'Discounts Available', description: 'Multi-policy, good driver, loyalty discounts' },
     { factor: 'Customer Service', description: '24/7 support and responsive team' },
   ];
@@ -132,7 +132,7 @@ export default function BestTrailerInsurancePage() {
             <div className="prose prose-slate max-w-none">
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Finding the Best Trailer Insurance in New Zealand</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                New Zealand has several excellent trailer insurance providers, each with different strengths, coverage options, and pricing. The "best" provider depends on your specific needs, trailer type, and priorities. Some excel at competitive pricing, others at claims support, and some specialize in specific trailer types like boats or caravans.
+                New Zealand has several excellent trailer insurance providers, each with different strengths, coverage options, and pricing. The "best" provider depends on your specific needs, trailer type, and priorities. Some excel at competitive pricing, others at claims support, and some specialise in specific trailer types like boats or caravans.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
@@ -143,7 +143,7 @@ export default function BestTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">AA Insurance</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-4">
-                AA Insurance is one of New Zealand's largest and most recognized insurance providers. They offer comprehensive trailer insurance with competitive rates and excellent customer service. AA provides flexible excess options, a wide network of repair providers, and responsive claims handling.
+                AA Insurance is one of New Zealand's largest and most recognised insurance providers. They offer comprehensive trailer insurance with competitive rates and excellent customer service. AA provides flexible excess options, a wide network of repair providers, and responsive claims handling.
               </p>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
                 Strengths: Competitive rates, flexible options, large repair network, good online tools. Best for: Customers seeking a reliable, well-known provider with good all-around service.
@@ -178,7 +178,7 @@ export default function BestTrailerInsurancePage() {
                 Mariner is the specialist choice for boat and marine-related insurance, including boat trailers and marine equipment. They deeply understand saltwater corrosion, marine environments, and the unique risks of boat ownership. If you have a boat trailer, Mariner should be on your comparison list.
               </p>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Strengths: Marine specialists, expert knowledge, specialized coverage, personalized service. Best for: Boat trailer owners and those wanting specialist marine expertise.
+                Strengths: Marine specialists, expert knowledge, specialised coverage, personalised service. Best for: Boat trailer owners and those wanting specialist marine expertise.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Cove Insurance</h3>

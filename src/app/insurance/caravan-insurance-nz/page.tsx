@@ -119,7 +119,7 @@ export default function CaravanInsurancePage() {
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
-                New Zealand's top insurers—AA Insurance, AMI, State Insurance, Tower, and Mariner—all offer specialized caravan policies with flexibility to match your needs. The right policy protects not just the caravan structure but also the electrical systems, appliances, and contents that make your travels comfortable.
+                New Zealand's top insurers—AA Insurance, AMI, State Insurance, Tower, and Mariner—all offer specialised caravan policies with flexibility to match your needs. The right policy protects not just the caravan structure but also the electrical systems, appliances, and contents that make your travels comfortable.
               </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">What Caravan Insurance Covers in NZ</h2>
@@ -193,7 +193,7 @@ export default function CaravanInsurancePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200 mb-6">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">AMI Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  AMI specializes in caravan and recreational vehicle insurance with policies designed for Kiwi holiday-makers. They offer multi-policy discounts, agreed value options, and 24/7 claims support. AMI is particularly popular for bundling home and caravan insurance.
+                  AMI specialises in caravan and recreational vehicle insurance with policies designed for Kiwi holiday-makers. They offer multi-policy discounts, agreed value options, and 24/7 claims support. AMI is particularly popular for bundling home and caravan insurance.
                 </p>
               </div>
 

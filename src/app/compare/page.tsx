@@ -234,7 +234,7 @@ export default function ComparePage() {
           <div className="space-y-6">
             <div className="bg-amber-50 border border-amber-200 rounded-lg p-6">
               <h3 className="font-semibold text-slate-900 mb-2">Best for Specialists</h3>
-              <p className="text-slate-700">AMI Insurance and Mariner Marine specialize in caravans, boat trailers, and marine craft — ideal if you want expert advice specific to your trailer type.</p>
+              <p className="text-slate-700">AMI Insurance and Mariner Marine specialise in caravans, boat trailers, and marine craft — ideal if you want expert advice specific to your trailer type.</p>
             </div>
 
             <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
@@ -267,12 +267,12 @@ export default function ComparePage() {
           <div className="lg:col-span-2">
             <h2 className="text-3xl font-bold text-slate-900 mb-6">Get Quotes from All These Providers</h2>
             <p className="text-lg text-slate-700 mb-8">
-              Rather than comparing on your own, let our brokers do the work. Fill out one quote form and get personalized quotes from multiple providers including all of these and more.
+              Rather than comparing on your own, let our brokers do the work. Fill out one quote form and get personalised quotes from multiple providers including all of these and more.
             </p>
             <ul className="space-y-4">
               {[
                 'Quotes from 50+ NZ insurance providers',
-                'Personalized recommendations based on your needs',
+                'Personalised recommendations based on your needs',
                 'Expert broker advice at no extra cost',
                 'Response within 24 hours',
                 'No obligation to purchase',

@@ -111,7 +111,7 @@ export default function EnclosedTrailerInsurancePage() {
             <div className="prose prose-slate max-w-none">
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Why Enclosed Trailers Need Specialist Insurance</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Enclosed cargo trailers provide secure storage and transport for valuable equipment, tools, and contents. Whether you're a tradie carrying expensive power tools, a business transporting inventory, or a contractor moving specialized equipment, your enclosed trailer is a critical business asset.
+                Enclosed cargo trailers provide secure storage and transport for valuable equipment, tools, and contents. Whether you're a tradie carrying expensive power tools, a business transporting inventory, or a contractor moving specialised equipment, your enclosed trailer is a critical business asset.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
@@ -193,7 +193,7 @@ export default function EnclosedTrailerInsurancePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200 mb-6">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">AMI Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  AMI specializes in commercial and trade insurance with enclosed trailer policies designed for business use. Multi-policy discounts and good customer service.
+                  AMI specialises in commercial and trade insurance with enclosed trailer policies designed for business use. Multi-policy discounts and good customer service.
                 </p>
               </div>
 
@@ -235,7 +235,7 @@ export default function EnclosedTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Business Use Requirements</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                If you use your enclosed trailer for business purposes—transporting stock, tools, equipment for paid work, or as part of your trade—you need commercial coverage. Personal insurance for business use will have claims denied. Be honest about your intended use when getting quotes. Some insurers specialize in commercial and trade use with coverage levels and support designed for business operators.
+                If you use your enclosed trailer for business purposes—transporting stock, tools, equipment for paid work, or as part of your trade—you need commercial coverage. Personal insurance for business use will have claims denied. Be honest about your intended use when getting quotes. Some insurers specialise in commercial and trade use with coverage levels and support designed for business operators.
               </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Cost-Saving Strategies for Enclosed Trailer Insurance</h2>
@@ -259,7 +259,7 @@ export default function EnclosedTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trade and Business Compliance</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                New Zealand's insurance regulations require that business use be explicitly declared. If you operate a construction, landscaping, electrical, or plumbing business using an enclosed trailer, you must have commercial coverage. Using personal insurance for business purposes voids your coverage. Professional tradespeople should get quotes specifically designed for their industry, which often include specialized coverage for common risks in that trade.
+                New Zealand's insurance regulations require that business use be explicitly declared. If you operate a construction, landscaping, electrical, or plumbing business using an enclosed trailer, you must have commercial coverage. Using personal insurance for business purposes voids your coverage. Professional tradespeople should get quotes specifically designed for their industry, which often include specialised coverage for common risks in that trade.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Contents Documentation</h3>
@@ -326,7 +326,7 @@ export default function EnclosedTrailerInsurancePage() {
                   Don't leave your valuable equipment and tools at risk. Get comprehensive enclosed trailer insurance that covers both the trailer and your contents.
                 </p>
                 <p className="text-lg text-slate-700">
-                  Get a free quote today and compare coverage from New Zealand's leading insurers specializing in cargo and equipment transport.
+                  Get a free quote today and compare coverage from New Zealand's leading insurers specialising in cargo and equipment transport.
                 </p>
               </div>
               <div>

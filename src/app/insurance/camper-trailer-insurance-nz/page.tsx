@@ -10,7 +10,7 @@ export default function CamperTrailerInsurancePage() {
     {
       icon: Tent,
       title: 'Pop-Top and Camper Coverage',
-      description: 'Specialized insurance for pop-top campers, expandable trailers, and lightweight camping rigs with all their unique features.',
+      description: 'Specialised insurance for pop-top campers, expandable trailers, and lightweight camping rigs with all their unique features.',
     },
     {
       icon: Home,
@@ -20,7 +20,7 @@ export default function CamperTrailerInsurancePage() {
     {
       icon: Shield,
       title: 'Accidental Damage & Repairs',
-      description: 'Protection against collision damage, impact damage from accidents, and emergency repairs while traveling.',
+      description: 'Protection against collision damage, impact damage from accidents, and emergency repairs while travelling.',
     },
     {
       icon: AlertTriangle,
@@ -57,7 +57,7 @@ export default function CamperTrailerInsurancePage() {
             '@context': 'https://schema.org',
             '@type': 'InsuranceProduct',
             name: 'Camper Trailer Insurance NZ',
-            description: 'Comprehensive camper and pop-top trailer insurance in New Zealand with specialized coverage for adventure travelers',
+            description: 'Comprehensive camper and pop-top trailer insurance in New Zealand with specialised coverage for adventure travelers',
             provider: {
               '@type': 'LocalBusiness',
               name: 'TrailerInsurance.co.nz',
@@ -115,7 +115,7 @@ export default function CamperTrailerInsurancePage() {
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Camper trailers frequently travel to remote locations, campgrounds, and off-road sites where security is limited. Their smaller size makes them easier targets for thieves. Their pop-top or expandable designs contain multiple mechanical and electrical components that require specialized knowledge to repair after damage.
+                Camper trailers frequently travel to remote locations, campgrounds, and off-road sites where security is limited. Their smaller size makes them easier targets for thieves. Their pop-top or expandable designs contain multiple mechanical and electrical components that require specialised knowledge to repair after damage.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
@@ -141,7 +141,7 @@ export default function CamperTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Water and Plumbing Systems</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Your camper's water tanks, pumps, lines, and fixtures are vulnerable to damage from impacts, freezing, or accidents. Insurance covers damage to these systems when caused by insured events, helping you access clean water for cooking and hygiene while traveling.
+                Your camper's water tanks, pumps, lines, and fixtures are vulnerable to damage from impacts, freezing, or accidents. Insurance covers damage to these systems when caused by insured events, helping you access clean water for cooking and hygiene while travelling.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Awnings and Canvas</h3>
@@ -177,7 +177,7 @@ export default function CamperTrailerInsurancePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200 mb-6">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">AMI Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  AMI specializes in recreational vehicle insurance with policies designed for adventure travelers. They offer multi-policy discounts and excellent customer service.
+                  AMI specialises in recreational vehicle insurance with policies designed for adventure travelers. They offer multi-policy discounts and excellent customer service.
                 </p>
               </div>
 
@@ -276,7 +276,7 @@ export default function CamperTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Seasonal Use and Winter Storage</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Many NZ campers are seasonal—heavy use in summer, storage in winter. Some insurers offer reduced premiums for seasonal cover or discounts during storage months when your camper isn't actively traveled. Ask about hibernation or seasonal reduction options that acknowledge periods when your camper sits unused.
+                Many NZ campers are seasonal—heavy use in summer, storage in winter. Some insurers offer reduced premiums for seasonal cover or discounts during storage months when your camper isn't actively travelled. Ask about hibernation or seasonal reduction options that acknowledge periods when your camper sits unused.
               </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Comparing Camper Trailer Insurers</h2>

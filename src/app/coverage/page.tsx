@@ -246,7 +246,7 @@ export default function CoveragePage() {
             <div className="border-l-4 border-red-500 pl-8">
               <h3 className="text-2xl font-bold text-slate-900 mb-4">Commercial Trailer Cover</h3>
               <p className="text-slate-700 mb-4 leading-relaxed">
-                <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">Commercial trailer insurance</Link> is designed for business owners who use trailers for work purposes. This specialized coverage includes protection for goods in transit, public liability for your business operations, and trade-related risks that standard consumer policies don't cover.
+                <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">Commercial trailer insurance</Link> is designed for business owners who use trailers for work purposes. This specialised coverage includes protection for goods in transit, public liability for your business operations, and trade-related risks that standard consumer policies don't cover.
               </p>
               <p className="text-slate-700 mb-4 leading-relaxed">
                 If you operate a trade business, transport goods for clients, or use your trailer as part of a commercial venture, standard consumer insurance won't provide adequate protection. Commercial policies are tailored to business needs and often include higher liability limits and specific coverage for business equipment and cargo.
@@ -486,7 +486,7 @@ export default function CoveragePage() {
                 NZ users choose from diverse trailer types: <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">caravans</Link>, <Link href="/insurance/boat-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">boat trailers</Link>, horse trailers, and more. Each type has unique risks and coverage needs. Ensure your policy is specifically designed for your trailer type, not a generic trailer policy.
               </p>
               <p className="text-slate-700">
-                Specialty trailers may require specialized insurers who understand their specific risks and requirements.
+                Specialty trailers may require specialised insurers who understand their specific risks and requirements.
               </p>
             </div>
           </div>
@@ -551,7 +551,7 @@ export default function CoveragePage() {
             <div className="p-6 border-l-4 border-red-500 bg-red-50 rounded-lg">
               <h3 className="text-lg font-bold text-slate-900 mb-3">Not Comparing Policies</h3>
               <p className="text-slate-700">
-                Staying with the same insurer without shopping around could cost you hundreds annually. Get multiple quotes and compare not just price but coverage details, excesses, and extras. What suits your neighbor might not suit you.
+                Staying with the same insurer without shopping around could cost you hundreds annually. Get multiple quotes and compare not just price but coverage details, excesses, and extras. What suits your neighbour might not suit you.
               </p>
             </div>
           </div>

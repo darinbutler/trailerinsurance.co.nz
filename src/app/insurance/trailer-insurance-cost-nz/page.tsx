@@ -9,7 +9,7 @@ export default function TrailerInsuranceCostPage() {
   const costBreakdown = [
     { trailer: 'Caravan (up to $40k)', min: '$400', max: '$900', factors: 'Size, age, security, usage' },
     { trailer: 'Camper Trailer (up to $25k)', min: '$350', max: '$700', factors: 'Pop-top mechanism, contents, location' },
-    { trailer: 'Horse Float', min: '$450', max: '$1000', factors: 'Specialized parts, event travel, equine use' },
+    { trailer: 'Horse Float', min: '$450', max: '$1000', factors: 'Specialised parts, event travel, equine use' },
     { trailer: 'Boat Trailer', min: '$400', max: '$800', factors: 'Marine exposure, vehicle value, storage' },
     { trailer: 'Box Trailer (up to $10k)', min: '$250', max: '$600', factors: 'Size, security, business/personal use' },
     { trailer: 'Flatbed/Commercial', min: '$500', max: '$1200+', factors: 'Load capacity, commercial use, maintenance' },
@@ -126,7 +126,7 @@ export default function TrailerInsuranceCostPage() {
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Generally, comprehensive trailer insurance ranges from $250-$1500+ annually depending on trailer type and value. Basic third-party liability cover is cheaper, starting around $150-$400 annually. The most expensive policies are for high-value trailers, commercial use, or specialized equipment.
+                Generally, comprehensive trailer insurance ranges from $250-$1500+ annually depending on trailer type and value. Basic third-party liability cover is cheaper, starting around $150-$400 annually. The most expensive policies are for high-value trailers, commercial use, or specialised equipment.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
@@ -185,7 +185,7 @@ export default function TrailerInsuranceCostPage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Why Prices Vary So Much Between Insurers</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Different insurers assess risk differently and have different claim experiences. An insurer that has had many theft claims in your area might charge higher premiums than one that hasn't. Some specialize in certain trailer types and offer better rates. Others have economies of scale that let them offer competitive pricing. For identical coverage on the same trailer, you might see quotes ranging from $400 to $700 annually. This is why <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">comparing quotes from multiple providers</Link> is essential.
+                Different insurers assess risk differently and have different claim experiences. An insurer that has had many theft claims in your area might charge higher premiums than one that hasn't. Some specialise in certain trailer types and offer better rates. Others have economies of scale that let them offer competitive pricing. For identical coverage on the same trailer, you might see quotes ranging from $400 to $700 annually. This is why <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">comparing quotes from multiple providers</Link> is essential.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Multi-Policy and Loyalty Discounts</h3>
@@ -207,7 +207,7 @@ export default function TrailerInsuranceCostPage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Boat Trailer and Horse Float Insurance</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                <Link href="/insurance/boat-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Boat trailer insurance</Link> and horse float insurance are specialized categories with unique risks. <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Horse float coverage</Link> typically costs $450-$1000 depending on facilities and usage. These specialized trailers may be more expensive to insure because fewer insurers cover them and repair specialists are less common.
+                <Link href="/insurance/boat-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Boat trailer insurance</Link> and horse float insurance are specialised categories with unique risks. <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Horse float coverage</Link> typically costs $450-$1000 depending on facilities and usage. These specialised trailers may be more expensive to insure because fewer insurers cover them and repair specialists are less common.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Commercial and Business Trailer Costs</h3>

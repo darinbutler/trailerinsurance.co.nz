@@ -101,7 +101,7 @@ export default function PrivacyPage() {
                 <li>256-bit SSL encryption for data in transit</li>
                 <li>Secure storage protocols for data at rest</li>
                 <li>Regular security audits and updates</li>
-                <li>Limited access to personal information by authorized personnel only</li>
+                <li>Limited access to personal information by authorised personnel only</li>
               </ul>
               <p>
                 While we strive to protect your information, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security of your data.

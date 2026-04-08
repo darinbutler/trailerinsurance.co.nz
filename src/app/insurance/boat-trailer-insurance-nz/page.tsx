@@ -15,7 +15,7 @@ export default function BoatTrailerInsurancePage() {
     {
       icon: Droplet,
       title: 'Water Damage Protection',
-      description: 'Specialized cover for corrosion, rust, and water damage that boat trailers are particularly susceptible to due to salt water and moisture exposure.',
+      description: 'Specialised cover for corrosion, rust, and water damage that boat trailers are particularly susceptible to due to salt water and moisture exposure.',
     },
     {
       icon: Shield,
@@ -165,7 +165,7 @@ export default function BoatTrailerInsurancePage() {
                 <li><strong>Jetski Trailers:</strong> Small, frequently-used trailers for jet ski transport and storage</li>
                 <li><strong>Fishing Boat Trailers:</strong> Medium trailers for small to medium fishing boats</li>
                 <li><strong>Cruiser Trailers:</strong> Larger trailers for family cruising boats</li>
-                <li><strong>Center Console Trailers:</strong> Specialized trailers for center console fishing boats</li>
+                <li><strong>Center Console Trailers:</strong> Specialised trailers for center console fishing boats</li>
                 <li><strong>Catamaran Trailers:</strong> Heavy-duty trailers for multi-hull vessels</li>
                 <li><strong>Wakeboard Boat Trailers:</strong> Sports-specific trailers for wake sports</li>
                 <li><strong>Inflatable Boat Trailers:</strong> Light-duty trailers for RIBs and inflatables</li>
@@ -200,7 +200,7 @@ export default function BoatTrailerInsurancePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200 mb-6">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">Mariner Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  Mariner specializes in boat and marine insurance and deeply understands boat trailer risks. They offer comprehensive boat trailer cover with expertise that mainstream insurers may lack. Highly recommended for boat owners.
+                  Mariner specialises in boat and marine insurance and deeply understands boat trailer risks. They offer comprehensive boat trailer cover with expertise that mainstream insurers may lack. Highly recommended for boat owners.
                 </p>
               </div>
 

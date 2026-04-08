@@ -118,7 +118,7 @@ export default function ContactPage() {
               <div className="space-y-6">
                 <div>
                   <h4 className="font-semibold text-slate-900 mb-2">Get a Free Quote</h4>
-                  <p className="text-slate-700 text-sm">Fill out our quick form and get personalized quotes from multiple providers within 24 hours.</p>
+                  <p className="text-slate-700 text-sm">Fill out our quick form and get personalised quotes from multiple providers within 24 hours.</p>
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-900 mb-2">Ask Questions</h4>

@@ -283,7 +283,7 @@ export default function BoxTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trade and Small Business Use</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Tradies and small business owners need <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">commercial trailer coverage</Link> appropriate for their regular work. Commercial policies accommodate frequent work site use, regular equipment transport, and business operations. While premiums are higher than personal use, commercial rates are competitive. Many insurers specialize in trade customers and offer good rates and claims support for work trailers.
+                Tradies and small business owners need <Link href="/types/commercial" className="text-amber-600 hover:text-amber-700 font-semibold underline">commercial trailer coverage</Link> appropriate for their regular work. Commercial policies accommodate frequent work site use, regular equipment transport, and business operations. While premiums are higher than personal use, commercial rates are competitive. Many insurers specialise in trade customers and offer good rates and claims support for work trailers.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Seasonal and Occasional Use</h3>

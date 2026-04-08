@@ -187,7 +187,7 @@ export default function ComprehensivePage() {
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Agreed Value vs Market Value</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Some comprehensive policies offer agreed value cover, where you and the insurer agree on the replacement value upfront. This is particularly valuable for well-maintained classic caravans or specialized horse floats where the market value might be difficult to establish after a total loss. Market value cover settles based on the trailer's actual cash value at the time of loss, which can be lower than you expect for older vehicles.
+                Some comprehensive policies offer agreed value cover, where you and the insurer agree on the replacement value upfront. This is particularly valuable for well-maintained classic caravans or specialised horse floats where the market value might be difficult to establish after a total loss. Market value cover settles based on the trailer's actual cash value at the time of loss, which can be lower than you expect for older vehicles.
               </p>
             </div>
           </div>
@@ -305,7 +305,7 @@ export default function ComprehensivePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">Mariner Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  Mariner specializes in boat and marine-related insurance, making them excellent for boat trailers and yacht tow vehicles. They understand unique maritime insurance needs.
+                  Mariner specialises in boat and marine-related insurance, making them excellent for boat trailers and yacht tow vehicles. They understand unique maritime insurance needs.
                 </p>
                 <p className="text-slate-600 text-sm">Specialists in marine insurance with expert knowledge.</p>
               </div>

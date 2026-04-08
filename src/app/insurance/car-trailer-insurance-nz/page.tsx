@@ -10,7 +10,7 @@ export default function CarTrailerInsurancePage() {
     {
       icon: Car,
       title: 'Car Carrier Trailer Protection',
-      description: 'Specialized coverage for enclosed and open car carrier trailers designed for safe vehicle transport and storage.',
+      description: 'Specialised coverage for enclosed and open car carrier trailers designed for safe vehicle transport and storage.',
     },
     {
       icon: Shield,
@@ -111,15 +111,15 @@ export default function CarTrailerInsurancePage() {
             <div className="prose prose-slate max-w-none">
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Why Car Trailers Need Specialist Insurance</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Car carrier trailers are specialized equipment designed for safe vehicle transport. Whether you operate a vehicle transport business, occasionally move cars between locations, or auction vehicles, your car trailer is a valuable asset requiring dedicated insurance protection. Standard personal trailer policies don't adequately cover the unique risks and requirements of vehicle transport equipment.
+                Car carrier trailers are specialised equipment designed for safe vehicle transport. Whether you operate a vehicle transport business, occasionally move cars between locations, or auction vehicles, your car trailer is a valuable asset requiring dedicated insurance protection. Standard personal trailer policies don't adequately cover the unique risks and requirements of vehicle transport equipment.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Car trailers face significant stresses: the weight of loaded vehicles, hydraulic ramp systems, expensive tie-down and restraint equipment, and the liability risks of transporting others' vehicles. They're often parked at auctions, dealerships, or storage yards—locations with higher theft risk. They require specialized knowledge to repair after damage.
+                Car trailers face significant stresses: the weight of loaded vehicles, hydraulic ramp systems, expensive tie-down and restraint equipment, and the liability risks of transporting others' vehicles. They're often parked at auctions, dealerships, or storage yards—locations with higher theft risk. They require specialised knowledge to repair after damage.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
-                Insurance providers AA Insurance, AMI, State, Tower, and others offer car trailer policies designed for vehicle transport operations. Some specialize in dealership and auction support, understanding the unique risks of vehicle transport businesses.
+                Insurance providers AA Insurance, AMI, State, Tower, and others offer car trailer policies designed for vehicle transport operations. Some specialise in dealership and auction support, understanding the unique risks of vehicle transport businesses.
               </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">What Car Trailer Insurance Covers</h2>
@@ -186,7 +186,7 @@ export default function CarTrailerInsurancePage() {
               <div className="bg-white p-8 rounded-2xl border border-slate-200 mb-6">
                 <h3 className="text-2xl font-bold text-amber-600 mb-3">AA Insurance</h3>
                 <p className="text-slate-700 mb-4">
-                  AA Insurance offers car trailer policies for vehicle transport businesses and private transporters. They understand the specialized needs of car carriers.
+                  AA Insurance offers car trailer policies for vehicle transport businesses and private transporters. They understand the specialised needs of car carriers.
                 </p>
               </div>
 
@@ -230,7 +230,7 @@ export default function CarTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Compare Multiple Quotes</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Don't accept the first quote. Insurance prices vary significantly between providers for identical coverage. <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Compare trailer insurance from multiple NZ providers</Link> to find the best value. Some insurers specialize in commercial vehicle transport, while others focus on personal use. Getting 3-5 quotes takes just a few minutes and could save you hundreds of dollars annually.
+                Don't accept the first quote. Insurance prices vary significantly between providers for identical coverage. <Link href="/insurance/compare-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Compare trailer insurance from multiple NZ providers</Link> to find the best value. Some insurers specialise in commercial vehicle transport, while others focus on personal use. Getting 3-5 quotes takes just a few minutes and could save you hundreds of dollars annually.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Understand Your Excess Options</h3>
@@ -269,7 +269,7 @@ export default function CarTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Caravan and Recreational Trailer Options</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                If you also operate <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">caravan or recreational vehicle transport</Link>, some insurers offer multi-trailer policies. Similarly, operators of <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">horse floats or specialty trailers</Link> may benefit from specialized policies designed for those vehicle types.
+                If you also operate <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">caravan or recreational vehicle transport</Link>, some insurers offer multi-trailer policies. Similarly, operators of <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">horse floats or specialty trailers</Link> may benefit from specialised policies designed for those vehicle types.
               </p>
 
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Tips for Car Trailer Insurance</h2>

@@ -48,7 +48,7 @@ export default function ThankYouPage() {
                 </div>
                 <div className="text-left">
                   <h3 className="font-bold text-slate-900 mb-1">Broker Assessment</h3>
-                  <p className="text-slate-700">Our licensed ICNZ-registered brokers review your details and prepare personalized quotes.</p>
+                  <p className="text-slate-700">Our licensed ICNZ-registered brokers review your details and prepare personalised quotes.</p>
                 </div>
               </div>
 

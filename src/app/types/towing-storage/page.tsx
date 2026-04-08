@@ -26,7 +26,7 @@ export default function TowingStoragePage() {
     {
       icon: AlertCircle,
       title: 'Roadside Assistance',
-      description: 'Emergency support including tire changes, fuel delivery, lockout assistance, and jump-starts for your tow vehicle.',
+      description: 'Emergency support including tyre changes, fuel delivery, lockout assistance, and jump-starts for your tow vehicle.',
     },
     {
       icon: Building2,
@@ -46,7 +46,7 @@ export default function TowingStoragePage() {
     {
       icon: DollarSign,
       title: 'Recovery Cost Coverage',
-      description: 'Covers specialist recovery services if your trailer is in a ditch, bog, or off-road location requiring specialized equipment.',
+      description: 'Covers specialist recovery services if your trailer is in a ditch, bog, or off-road location requiring specialised equipment.',
     },
   ];
 
@@ -137,7 +137,7 @@ export default function TowingStoragePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Professional Towing Services</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                After an accident or breakdown, your trailer typically can't be driven. Professional towing services are required to move it to a repair facility. Towing costs vary based on distance — a 50km tow might cost $300-$500, while a 100km tow could exceed $1,000. In remote areas or with specialized trailers (horse floats, enclosed caravans), costs can be even higher.
+                After an accident or breakdown, your trailer typically can't be driven. Professional towing services are required to move it to a repair facility. Towing costs vary based on distance — a 50km tow might cost $300-$500, while a 100km tow could exceed $1,000. In remote areas or with specialised trailers (horse floats, enclosed caravans), costs can be even higher.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
@@ -146,7 +146,7 @@ export default function TowingStoragePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Recovery Services</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Sometimes your trailer doesn't just need towing — it needs recovery. If your trailer goes off the road into a ditch, creek, or boggy ground, standard towing won't work. You need specialized recovery equipment like heavy tow trucks, winches, or cranes to extract the trailer safely.
+                Sometimes your trailer doesn't just need towing — it needs recovery. If your trailer goes off the road into a ditch, creek, or boggy ground, standard towing won't work. You need specialised recovery equipment like heavy tow trucks, winches, or cranes to extract the trailer safely.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
@@ -168,7 +168,7 @@ export default function TowingStoragePage() {
               </p>
 
               <ul className="list-disc list-inside space-y-2 mb-6 text-lg text-slate-700">
-                <li>Tire changes and repairs</li>
+                <li>Tyre changes and repairs</li>
                 <li>Fuel delivery if you run out of gas</li>
                 <li>Lockout assistance if keys are locked in the vehicle</li>
                 <li>Battery jump-start service</li>
@@ -177,7 +177,7 @@ export default function TowingStoragePage() {
               </ul>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Many insurers provide unlimited roadside assistance calls per year at no additional cost, providing peace of mind when traveling.
+                Many insurers provide unlimited roadside assistance calls per year at no additional cost, providing peace of mind when travelling.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Access to Approved Repairers</h3>
@@ -202,7 +202,7 @@ export default function TowingStoragePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Owners of Expensive Trailers</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Horse floats, quality caravans, and specialized trailers are expensive to repair. Extended storage while waiting for parts is likely. Towing and storage cover protects against these costs.
+                Horse floats, quality caravans, and specialised trailers are expensive to repair. Extended storage while waiting for parts is likely. Towing and storage cover protects against these costs.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">People with Limited Access</h3>
@@ -276,7 +276,7 @@ export default function TowingStoragePage() {
               <ol className="list-decimal list-inside space-y-4 mb-6 text-lg text-slate-700">
                 <li><strong>Call your insurer immediately:</strong> Have your policy number ready. Many insurers provide a 24/7 claims hotline.</li>
                 <li><strong>Explain the situation:</strong> Describe what happened and where you are. For accidents, get a police report number.</li>
-                <li><strong>Authorize towing:</strong> The insurer will either dispatch a tow truck or authorize you to call an approved provider.</li>
+                <li><strong>Authorise towing:</strong> The insurer will either dispatch a tow truck or authorise you to call an approved provider.</li>
                 <li><strong>Provide details:</strong> Tell the tow operator where you want the trailer towed (approved repairer, your home, etc.).</li>
                 <li><strong>Get documentation:</strong> Keep receipts and towing documentation for your claim file.</li>
                 <li><strong>Follow up:</strong> Confirm coverage with your insurer and ensure towing is processed as a covered claim.</li>

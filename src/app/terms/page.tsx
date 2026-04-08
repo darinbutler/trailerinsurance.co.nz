@@ -28,7 +28,7 @@ export default function TermsPage() {
             <div>
               <h2 className="text-2xl font-bold text-slate-900 mb-4">2. Use License</h2>
               <p>
-                Permission is granted to temporarily download one copy of the materials (information, images, and software) on the Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title.
+                Permission is granted to temporarily download one copy of the materials (information, images, and software) on the Website for personal, non-commercial transitory viewing only. This is the grant of a licence, not a transfer of title.
               </p>
               <p>
                 You may not:
@@ -127,7 +127,7 @@ export default function TermsPage() {
                 <li>Harass, threaten, or abuse other users</li>
                 <li>Impersonate any person or entity</li>
                 <li>Engage in illegal activities or encourage others to do so</li>
-                <li>Attempt unauthorized access to our systems</li>
+                <li>Attempt unauthorised access to our systems</li>
                 <li>Interfere with the normal operation of the Website</li>
               </ul>
             </div>

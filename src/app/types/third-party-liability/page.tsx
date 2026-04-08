@@ -142,7 +142,7 @@ export default function ThirdPartyLiabilityPage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Trailer Causes Property Damage</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Third-party cover applies when your trailer causes damage to property that isn't a vehicle. If you're reversing and hit a neighbor's fence, or your trailer's contents spill onto the road and damage passing vehicles, third-party liability covers these claims. This extends to damage to public infrastructure like street signs, bollards, power lines, and buildings.
+                Third-party cover applies when your trailer causes damage to property that isn't a vehicle. If you're reversing and hit a neighbour's fence, or your trailer's contents spill onto the road and damage passing vehicles, third-party liability covers these claims. This extends to damage to public infrastructure like street signs, bollards, power lines, and buildings.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Cargo Spillage or Loss</h3>
@@ -329,7 +329,7 @@ export default function ThirdPartyLiabilityPage() {
         {/* Risk Management Tips */}
         <section className="py-16 sm:py-20 px-4 sm:px-6 lg:px-8 bg-slate-50">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-8">Best Practices to Minimize Third-Party Risk</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-8">Best Practices to Minimise Third-Party Risk</h2>
 
             <div className="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-2xl p-8 space-y-6">
               <div className="flex gap-4">
@@ -367,7 +367,7 @@ export default function ThirdPartyLiabilityPage() {
                 <div>
                   <h3 className="font-bold text-slate-900 mb-2">Regular Maintenance</h3>
                   <p className="text-slate-700">
-                    Service your trailer annually, check brakes, tires, lights, and coupling. Neglected maintenance increases accident risk and claims likelihood.
+                    Service your trailer annually, check brakes, tyres, lights, and coupling. Neglected maintenance increases accident risk and claims likelihood.
                   </p>
                 </div>
               </div>
@@ -405,7 +405,7 @@ export default function ThirdPartyLiabilityPage() {
                   Third-party liability is affordable insurance that protects you from potentially catastrophic financial consequences. Most Kiwis with trailers should have this basic cover.
                 </p>
                 <p className="text-lg text-slate-700 mb-8">
-                  Use our free comparison service to find the best third-party liability quotes from top NZ insurers. Get personalized quotes in just 2 minutes with no obligation.
+                  Use our free comparison service to find the best third-party liability quotes from top NZ insurers. Get personalised quotes in just 2 minutes with no obligation.
                 </p>
 
                 <div className="space-y-4">

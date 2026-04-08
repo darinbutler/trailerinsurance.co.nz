@@ -126,7 +126,7 @@ export default function FlatbedTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Deck and Structure Protection</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Your flatbed deck, side rails, and structural frame are built for heavy loads. Insurance covers damage to these components from accidents, impacts, overloading incidents, and weather events. Reinforced decking and heavy-duty construction require specialized knowledge to repair properly.
+                Your flatbed deck, side rails, and structural frame are built for heavy loads. Insurance covers damage to these components from accidents, impacts, overloading incidents, and weather events. Reinforced decking and heavy-duty construction require specialised knowledge to repair properly.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Heavy-Duty Brake Systems</h3>
@@ -249,7 +249,7 @@ export default function FlatbedTrailerInsurancePage() {
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Driver Experience and Qualifications</h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Driver qualifications affect flatbed insurance premiums. Drivers with heavy vehicle licenses (if required for your trailer combination), good driving records, and specialized heavy-load training command lower premiums. Inexperienced drivers or those with traffic violations cost more. Some insurers require specific training for high-value load transport. Investing in driver training can reduce premiums and improve safety.
+                Driver qualifications affect flatbed insurance premiums. Drivers with heavy vehicle licenses (if required for your trailer combination), good driving records, and specialised heavy-load training command lower premiums. Inexperienced drivers or those with traffic violations cost more. Some insurers require specific training for high-value load transport. Investing in driver training can reduce premiums and improve safety.
               </p>
 
               <h3 className="text-2xl font-bold text-slate-900 mb-4 mt-8">Tow Vehicle Suitability</h3>
@@ -299,7 +299,7 @@ export default function FlatbedTrailerInsurancePage() {
               <h2 className="text-3xl font-bold text-slate-900 mb-6 mt-12">Finding Competitive Commercial Flatbed Insurance</h2>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                <Link href="/compare" className="text-amber-600 hover:text-amber-700 font-semibold underline">Comparing commercial flatbed insurance from multiple providers</Link> ensures you get competitive rates. Different insurers specialize in different sectors—some focus on construction, others on logistics or agriculture. Getting quotes from specialists in your industry often yields better rates than generic insurers.
+                <Link href="/compare" className="text-amber-600 hover:text-amber-700 font-semibold underline">Comparing commercial flatbed insurance from multiple providers</Link> ensures you get competitive rates. Different insurers specialise in different sectors—some focus on construction, others on logistics or agriculture. Getting quotes from specialists in your industry often yields better rates than generic insurers.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">

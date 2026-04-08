@@ -145,7 +145,7 @@ export default function CompareTrailerInsurancePage() {
             <div className="prose prose-slate max-w-none">
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Why Comparing Trailer Insurance Matters</h2>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Trailer insurance premiums vary significantly across New Zealand providers. Two identical trailers with the same coverage could cost anywhere from $400 to $900 annually depending on the insurance company you choose. Getting quotes from multiple providers could save you hundreds of dollars per year.
+                Trailer insurance premiums vary significantly across New Zealand providers. Two identical trailers with the same coverage could cost anywhere from $400 to $900 annually depending on the insurance company you choose. Getting quotes from multiple providers could save you hundreds of dollars per year. This guide explains what it means to compare insurance policies for trailers that have travelled across New Zealand or are frequently travelling.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
@@ -235,13 +235,13 @@ export default function CompareTrailerInsurancePage() {
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
-                Some specialized coverage options include mechanical breakdown protection, <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">contents coverage</Link> for items inside your trailer, and roadside assistance for towing and recovery. When comparing quotes, ask each insurer what coverage types they offer and how they differ across price points.
+                Some specialised coverage options include mechanical breakdown protection, <Link href="/types/contents-cover" className="text-amber-600 hover:text-amber-700 font-semibold underline">contents coverage</Link> for items inside your trailer, and roadside assistance for towing and recovery. When comparing quotes, ask each insurer what coverage types they offer and how they differ across price points.
               </p>
 
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Comparing Specific Trailer Types</h2>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                Different trailer types have different insurance needs and pricing. <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Caravan insurance</Link> focuses on fixed structures and residential-style coverage, while <Link href="/insurance/boat-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">boat trailer insurance</Link> specializes in water damage and marine-specific risks. Horse float insurance emphasizes animal safety features, while utility trailers focus on cargo protection.
+                Different trailer types have different insurance needs and pricing. <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">Caravan insurance</Link> focuses on fixed structures and residential-style coverage, while <Link href="/insurance/boat-trailer-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">boat trailer insurance</Link> specialises in water damage and marine-specific risks. Horse float insurance emphasizes animal safety features, while utility trailers focus on cargo protection.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
@@ -320,7 +320,7 @@ export default function CompareTrailerInsurancePage() {
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">Getting the Most Accurate Quotes</h2>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                To get accurate quotes that you can reliably compare, provide consistent information across all providers. Gather these details before requesting quotes: your trailer's make, model, year, and current condition; its agreed value or replacement cost; your primary location and storage arrangement; annual kilometers traveled; any modifications or additions; and how often you actually use the trailer.
+                To get accurate quotes that you can reliably compare, provide consistent information across all providers. Gather these details before requesting quotes: your trailer's make, model, year, and current condition; its agreed value or replacement cost; your primary location and storage arrangement; annual kilometres travelled; any modifications or additions; and how often you actually use the trailer.
               </p>
 
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
