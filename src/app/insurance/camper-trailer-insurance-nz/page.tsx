@@ -74,7 +74,7 @@ export default function CamperTrailerInsurancePage() {
         <section
           className="relative min-h-[80vh] flex items-center"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1920&h=1080&fit=crop)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1761019340019-6c747df036e0?w=1920&h=1080&fit=crop)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}

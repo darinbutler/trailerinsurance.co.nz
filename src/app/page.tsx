@@ -106,15 +106,36 @@ export default function HomePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'WebSite',
-            name: 'TrailerInsurance.co.nz',
-            url: 'https://trailerinsurance.co.nz',
-            potentialAction: {
-              '@type': 'SearchAction',
-              target: 'https://trailerinsurance.co.nz/contact?q={search_term_string}',
-              'query-input': 'required name=search_term_string',
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "TrailerInsurance.co.nz",
+            "url": "https://trailerinsurance.co.nz",
+            "logo": "https://trailerinsurance.co.nz/favicon.ico",
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "+64-9-885-9549",
+              "contactType": "customer service",
+              "areaServed": "NZ",
+              "availableLanguage": "English"
             },
+            "sameAs": [],
+            "description": "New Zealand's specialist trailer insurance comparison service connecting Kiwis with ICNZ-registered insurance brokers."
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "TrailerInsurance.co.nz",
+            "url": "https://trailerinsurance.co.nz",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://trailerinsurance.co.nz/?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
           }),
         }}
       />

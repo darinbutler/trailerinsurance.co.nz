@@ -4,12 +4,12 @@ import { useState, useEffect, useCallback } from 'react';
 
 const heroImages = [
   {
-    url: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1920&h=1080&fit=crop',
-    alt: 'Vehicle travelling along a scenic mountain road towing a trailer',
+    url: 'https://images.unsplash.com/photo-1520101244246-293f77ffc39e?w=1920&h=1080&fit=crop',
+    alt: 'Black SUV towing a white trailer on an open road',
   },
   {
-    url: 'https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=1920&h=1080&fit=crop',
-    alt: 'Camping trailer set up at a scenic mountain campsite',
+    url: 'https://images.unsplash.com/photo-1749238651999-6fb194649b4f?w=1920&h=1080&fit=crop',
+    alt: 'Truck pulling a caravan trailer down a scenic country road',
   },
 ];
 

@@ -4,4 +4,20 @@ Disallow: /_next/
 Disallow: /api/
 Disallow: /thank-you/
 
+# AI Crawler Permissions
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
 Sitemap: https://trailerinsurance.co.nz/sitemap.xml

@@ -18,8 +18,21 @@ export const metadata: Metadata = {
     "comprehensive trailer cover",
     "third party trailer insurance",
     "commercial trailer insurance",
+    "trailer insurance cost nz",
+    "cheap trailer insurance nz",
+    "compare trailer insurance nz",
+    "box trailer insurance nz",
+    "flatbed trailer insurance nz",
+    "enclosed trailer insurance nz",
+    "car trailer insurance nz",
+    "camper trailer insurance nz",
+    "agreed value trailer insurance",
+    "third party trailer insurance nz",
+    "trailer insurance quote nz",
   ],
   authors: [{ name: "TrailerInsurance.co.nz" }],
+  canonical: "https://trailerinsurance.co.nz",
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
   openGraph: {
     type: "website",
     locale: "en_NZ",
@@ -28,6 +41,11 @@ export const metadata: Metadata = {
     description:
       "Compare top trailer insurance providers in New Zealand. Caravan, boat trailer, horse float, and commercial trailer cover.",
     siteName: "TrailerInsurance.co.nz",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "TrailerInsurance.co.nz | Trailer Insurance NZ | Compare & Save",
+    description: "Compare top trailer insurance providers in New Zealand. Free quotes within 24 hours from ICNZ-registered brokers.",
   },
   icons: {
     icon: "/favicon.ico",
