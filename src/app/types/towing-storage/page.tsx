@@ -85,7 +85,7 @@ export default function TowingStoragePage() {
         <section
           className="relative min-h-[80vh] flex items-center"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1920&h=1080&fit=crop)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=1920&h=1080&fit=crop)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}

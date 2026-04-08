@@ -9,7 +9,7 @@ interface Stat {
 
 const stats: Stat[] = [
   { value: '8+', label: 'NZ Insurers' },
-  { value: '$200M+', label: 'Trailers Covered' },
+  { value: '$200M+', label: 'Assets Covered' },
   { value: '24hr', label: 'Quote Response' },
   { value: '4.9★', label: 'Customer Rating' },
 ];
