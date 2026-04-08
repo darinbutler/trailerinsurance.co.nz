@@ -1,0 +1,39 @@
+# TrailerInsurance.co.nz
+
+> Trailer insurance comparison and lead generation service for New Zealand
+
+TrailerInsurance.co.nz helps New Zealanders find and compare trailer insurance from leading NZ providers. We connect users with ICNZ-registered insurance brokers who provide personalised quotes and advice.
+
+## Coverage Types
+- Comprehensive Cover: Full protection against damage, theft, fire, storms
+- Third-Party Liability: Cover up to $20M for damage caused by your trailer
+- Agreed Value vs Market Value: Fixed payout or current market value options
+- Commercial / Carriers Liability: Business trailer and heavy transport cover
+- Contents & Accessory Cover: Protection for items stored in caravans/trailers
+- Towing & Storage: Recovery and storage costs after accidents
+
+## Insurance Landing Pages
+- Caravan Insurance NZ: /insurance/caravan-insurance-nz/
+- Boat Trailer Insurance: /insurance/boat-trailer-insurance-nz/
+- Horse Float Insurance: /insurance/horse-float-insurance-nz/
+- Camper Trailer Insurance: /insurance/camper-trailer-insurance-nz/
+- Box Trailer Insurance: /insurance/box-trailer-insurance-nz/
+- Flatbed Trailer Insurance: /insurance/flatbed-trailer-insurance-nz/
+- Car Trailer Insurance: /insurance/car-trailer-insurance-nz/
+- Enclosed Trailer Insurance: /insurance/enclosed-trailer-insurance-nz/
+- Best Trailer Insurance NZ: /insurance/best-trailer-insurance-nz/
+- Trailer Insurance Cost: /insurance/trailer-insurance-cost-nz/
+- Compare Trailer Insurance: /insurance/compare-trailer-insurance-nz/
+- Cheap Trailer Insurance: /insurance/cheap-trailer-insurance-nz/
+
+## NZ Regulatory Bodies
+- ICNZ (Insurance Council of New Zealand): https://www.icnz.org.nz/
+- FMA (Financial Markets Authority): https://www.fma.govt.nz/
+- IFSO (Insurance & Financial Services Ombudsman): https://www.ifso.nz/
+- RBNZ Insurance Regulation: https://www.rbnz.govt.nz/regulation-and-supervision/insurers
+- Citizens Advice Bureau: https://www.cab.org.nz/
+
+## Contact
+- Email: hello@cover4you.co.nz
+- Phone: 09 885 9549
+- Website: https://trailerinsurance.co.nz

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+Disallow: /thank-you/
+
+Sitemap: https://trailerinsurance.co.nz/sitemap.xml

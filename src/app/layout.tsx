@@ -1,0 +1,70 @@
+import type { Metadata } from "next";
+import "./globals.css";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+export const metadata: Metadata = {
+  title: "TrailerInsurance.co.nz | Trailer Insurance NZ | Compare & Save",
+  description:
+    "Compare top trailer insurance providers in New Zealand. Get quotes for caravan, boat trailer, horse float, and commercial trailer insurance. Free quotes within 24 hours.",
+  keywords: [
+    "trailer insurance nz",
+    "trailer insurance new zealand",
+    "caravan insurance nz",
+    "boat trailer insurance",
+    "horse float insurance",
+    "camper trailer insurance",
+    "trailer insurance comparison",
+    "comprehensive trailer cover",
+    "third party trailer insurance",
+    "commercial trailer insurance",
+  ],
+  authors: [{ name: "TrailerInsurance.co.nz" }],
+  openGraph: {
+    type: "website",
+    locale: "en_NZ",
+    url: "https://trailerinsurance.co.nz",
+    title: "TrailerInsurance.co.nz | Trailer Insurance NZ | Compare & Save",
+    description:
+      "Compare top trailer insurance providers in New Zealand. Caravan, boat trailer, horse float, and commercial trailer cover.",
+    siteName: "TrailerInsurance.co.nz",
+  },
+  icons: {
+    icon: "/favicon.ico",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en" className="h-full antialiased scroll-smooth">
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#f59e0b" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet"
+        />
+        <meta
+          name="description"
+          content="Compare top trailer insurance providers in New Zealand. Get quotes for caravan, boat trailer, horse float, and commercial trailer insurance. Free quotes within 24 hours."
+        />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6745344450942342"
+          crossOrigin="anonymous"
+        />
+      </head>
+      <body className="min-h-full flex flex-col bg-white font-sans antialiased">
+        <Header />
+        <main className="flex-1">{children}</main>
+        <Footer />
+      </body>
+    </html>
+  );
+}
