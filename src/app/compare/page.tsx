@@ -182,6 +182,20 @@ export default function ComparePage() {
               </div>
             ))}
           </div>
+
+          {/* CTA under comparison table */}
+          <div className="mt-12 bg-gradient-to-r from-amber-500 to-orange-600 rounded-2xl p-8 sm:p-10 text-center">
+            <h3 className="text-2xl sm:text-3xl font-bold text-white mb-3">Not Sure Which Provider Is Right for You?</h3>
+            <p className="text-white/90 text-lg mb-6 max-w-2xl mx-auto">
+              Let our ICNZ registered brokers compare all of these providers (and more) on your behalf — completely free, with no obligation.
+            </p>
+            <a
+              href="/#quote-form"
+              className="inline-flex items-center justify-center gap-2 bg-white text-amber-600 font-bold py-3.5 px-8 rounded-xl hover:bg-amber-50 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+            >
+              Get a Free Quote <span>→</span>
+            </a>
+          </div>
         </div>
       </section>
 
