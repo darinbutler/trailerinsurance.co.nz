@@ -165,7 +165,6 @@ export default function ComparePage() {
                 <div className="mb-4">
                   <h3 className="text-lg font-bold text-slate-900">{provider.name}</h3>
                   <p className="text-sm text-slate-600">{provider.type}</p>
-                  <p className="text-xs text-slate-500 mt-1">{provider.domain}</p>
                 </div>
 
                 <div className="space-y-3">
@@ -198,16 +197,7 @@ export default function ComparePage() {
                 <p className="text-slate-600 font-semibold mb-4">{provider.description}</p>
                 <p className="text-slate-700 mb-6">{provider.type}</p>
 
-                <div className="space-y-2 mb-6 pt-6 border-t border-slate-200">
-                  <p className="text-sm text-slate-600">
-                    <span className="font-semibold text-slate-900">Website:</span>{' '}
-                    <a href={`https://${provider.domain}`} target="_blank" rel="noopener noreferrer" className="text-amber-600 hover:text-amber-700">
-                      {provider.domain}
-                    </a>
-                  </p>
-                </div>
-
-                <div className="flex flex-wrap gap-2">
+                <div className="flex flex-wrap gap-2 mt-6 pt-6 border-t border-slate-200">
                   {Object.entries(provider.features).map(([key, included]) =>
                     included ? (
                       <span key={key} className="inline-flex items-center gap-1 px-3 py-1 bg-green-50 border border-green-200 rounded-full text-xs font-medium text-green-700">
