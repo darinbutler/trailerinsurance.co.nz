@@ -85,28 +85,32 @@ const whatsNotCovered = [
 export default function CoveragePage() {
   return (
     <>
-      {/* Hero Section */}
+      {/* Hero Section — tall with bottom padding so coverage card overlaps */}
       <section
-        className="relative py-20 sm:py-28 px-4 sm:px-6 lg:px-8"
+        className="relative min-h-[70vh] flex flex-col justify-end px-4 sm:px-6 lg:px-8 pt-28 pb-32"
         style={{
           backgroundImage: 'url(https://images.unsplash.com/photo-1765478423046-b66c352ff59a?w=1920&h=1080&fit=crop)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-slate-900/90 to-slate-900/60" />
-        <div className="relative max-w-4xl mx-auto">
-          <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">Trailer Insurance Coverage Guide</h1>
-          <p className="text-xl text-slate-200">Understand what trailer insurance covers and find the right policy for your needs.</p>
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-900/70 via-slate-900/60 to-slate-900/80" />
+        <div className="relative max-w-4xl mx-auto w-full">
+          <div className="inline-flex items-center gap-2 bg-amber-500/20 border border-amber-400/40 rounded-full px-4 py-1.5 mb-5">
+            <span className="text-amber-300 text-sm font-semibold">Complete NZ Coverage Guide</span>
+          </div>
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-5 leading-tight">Trailer Insurance<br className="hidden sm:block" /> Coverage Guide</h1>
+          <p className="text-xl text-slate-200 max-w-2xl">Understand exactly what's covered, compare policy levels, and find the right cover for your trailer.</p>
         </div>
       </section>
 
-      {/* What Is Covered Section */}
-      <section className="py-16 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white">
+      {/* What Is Covered Section — overlaps hero with negative top margin */}
+      <section className="relative z-10 -mt-16 px-4 sm:px-6 lg:px-8 pb-16 sm:pb-20 bg-transparent">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl font-bold text-slate-900 mb-12">What Trailer Insurance Covers</h2>
+          <div className="bg-white rounded-3xl shadow-2xl shadow-slate-900/20 p-8 sm:p-12">
+            <h2 className="text-3xl font-bold text-slate-900 mb-12">What Trailer Insurance Covers</h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
             <div>
               <h3 className="text-2xl font-semibold text-slate-900 mb-6 flex items-center gap-2">
                 <CheckCircle className="w-6 h-6 text-green-600" />
@@ -136,6 +140,7 @@ export default function CoveragePage() {
                 ))}
               </ul>
             </div>
+          </div>
           </div>
         </div>
       </section>
