@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0deecnazeetq6.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","style"]
+:HL["https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=450&fit=crop","image"]
+:HL["https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=450&fit=crop","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"caravan-insurance-tips-nz","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"S_E8aU0lrTDzgu2Sp7obo"}
