@@ -413,7 +413,7 @@ export default function ThirdPartyLiabilityPage() {
                     { title: 'Up to $20M Liability Protection', desc: 'Cover legal costs and third-party property damage claims so one accident does not wipe out your savings.' },
                     { title: 'From Just a Few Dollars a Week', desc: 'Third-party liability is one of the most affordable trailer insurance options available, often under $15/week.' },
                     { title: 'Covers All Trailer Types', desc: 'Caravans, boat trailers, horse floats, box trailers, and commercial rigs — one policy covers your liability.' },
-                    { title: 'ICNZ Registered Broker Network', desc: 'We match you with licensed brokers who compare quotes from 50+ NZ providers at no extra cost to you.' },
+                    { title: 'Licensed Broker Network', desc: 'We match you with licensed brokers who compare quotes from 50+ NZ providers at no extra cost to you.' },
                     { title: '24-Hour Quote Response', desc: 'Submit your details once and receive personalised quotes from multiple insurers within one business day.' },
                     { title: 'No Obligation, No Hidden Fees', desc: 'Our comparison service is completely free. You only pay the insurer if you choose to go ahead with a policy.' },
                   ].map((item, i) => (

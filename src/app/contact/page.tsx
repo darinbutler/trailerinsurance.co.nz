@@ -7,7 +7,7 @@ export const metadata = {
 };
 
 const usps = [
-  { icon: Shield, title: 'ICNZ Registered Brokers', desc: 'Licensed professionals you can trust' },
+  { icon: Shield, title: 'Licensed Insurance Brokers', desc: 'Licensed professionals you can trust' },
   { icon: Zap, title: '24-Hour Response', desc: 'Quotes back to you within one business day' },
   { icon: CheckCircle, title: 'No Broker Fees', desc: 'Completely free — no hidden charges' },
   { icon: Lock, title: '256-bit SSL Secure', desc: 'Your data is safe and encrypted' },

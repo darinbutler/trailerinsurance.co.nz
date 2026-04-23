@@ -3,7 +3,7 @@ import Logo from './Logo';
 import { Shield, Zap, HeadphonesIcon, Lock, ExternalLink } from 'lucide-react';
 
 const footerTrustBadges = [
-  { icon: Shield, label: 'ICNZ Registered Brokers' },
+  { icon: Shield, label: 'Fair Practice Standard' },
   { icon: Zap, label: 'Instant Quotes' },
   { icon: HeadphonesIcon, label: 'Expert Support' },
   { icon: Lock, label: '100% Secure' },
@@ -14,8 +14,10 @@ const footerLinks = {
     title: 'Company',
     links: [
       { label: 'About', href: '/about' },
-      { label: 'Contact', href: '/contact' },
-      { label: 'FAQs', href: '/faqs' },
+      { label: 'Making a Claim', href: '/claims' },
+                { label: 'Contact', href: '/contact' },
+      { label: 'Making a Claim', href: '/claims' },
+                { label: 'FAQs', href: '/faqs' },
       { label: 'Blog', href: '/blog' },
       { label: 'Coverage Guide', href: '/coverage' },
       { label: 'Compare Providers', href: '/compare' },
@@ -198,7 +200,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4">
             <p className="text-slate-400 text-sm">&copy; {currentYear} TrailerInsurance.co.nz. All rights reserved.</p>
             <div className="flex items-center gap-4 text-slate-400 text-sm">
-              <span>Partnered with ICNZ Registered Insurance Brokers</span>
+              <span>Partnered with Licensed Insurance Brokers</span>
               <span className="hidden sm:inline">|</span>
               <Link href="/disclaimer" className="hover:text-amber-300 transition-colors">Disclaimer</Link>
             </div>

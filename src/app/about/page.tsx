@@ -12,7 +12,7 @@ export default function AboutPage() {
   const trustSignals = [
     {
       icon: ShieldCheck,
-      title: 'ICNZ Registered Brokers',
+      title: 'Licensed Insurance Brokers',
       description: 'Our partners are fully registered with Insurance Council of New Zealand',
     },
     {

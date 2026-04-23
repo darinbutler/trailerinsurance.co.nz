@@ -163,7 +163,7 @@ export default function HomePage() {
             <div className="max-w-3xl">
               <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-1.5 mb-6">
                 <Shield className="w-4 h-4 text-amber-400" />
-                <span className="text-sm text-white font-medium">Partnered with ICNZ Registered Brokers</span>
+                <span className="text-sm text-white font-medium">Partnered with Licensed Insurance Brokers</span>
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
@@ -178,7 +178,7 @@ export default function HomePage() {
 
               <div className="flex flex-wrap gap-3 mb-10">
                 {[
-                  { icon: Shield, text: 'ICNZ Registered Brokers' },
+                  { icon: Shield, text: 'Licensed Insurance Brokers' },
                   { icon: CheckCircle2, text: 'No Broker Fees' },
                   { icon: Lock, text: '256-bit SSL Secure' },
                   { icon: Zap, text: '24hr Response' },
