@@ -133,11 +133,11 @@ export default function DisclaimerPage() {
             <div>
               <h2 className="text-2xl font-bold text-slate-900 mb-4">FSP Registration</h2>
               <p className="text-slate-700 mb-4">
-                When we mention "FSP registered brokers," we are referring to brokers registered with the Financial Markets Authority. FSP registered brokers are required to:
+                When we mention "FSP registered brokers," we mean brokers listed on the Financial Service Providers Register, which is maintained by the Companies Office and is public. Anyone giving regulated financial advice to retail clients must also give that advice under a Financial Advice Provider licence issued by the Financial Markets Authority, or as an authorised body under someone else's. In practice that means:
               </p>
               <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-4">
-                <li>Act in accordance with the Insurance Brokers (Ethical Conduct) Rules 2019</li>
-                <li>Maintain professional indemnity insurance</li>
+                <li>Be listed on the Financial Service Providers Register, which you can search yourself</li>
+                <li>Belong to an approved dispute resolution scheme, so you have somewhere free to escalate a complaint</li>
                 <li>Provide accurate information and fair service to clients</li>
               </ul>
               <p className="text-slate-700">
