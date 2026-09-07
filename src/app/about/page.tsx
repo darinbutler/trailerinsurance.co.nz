@@ -5,7 +5,7 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata = {
   title: 'About TrailerInsurance.co.nz | NZ Trailer Insurance',
-  description: 'Learn about TrailerInsurance.co.nz. Connecting Kiwis with the right trailer insurance through ICNZ registered brokers, no fees, and 24-hour support.',
+  description: 'Learn about TrailerInsurance.co.nz. Connecting Kiwis with the right trailer insurance through FSP registered brokers, no fees, and 24-hour support.',
 };
 
 export default function AboutPage() {
@@ -13,7 +13,7 @@ export default function AboutPage() {
     {
       icon: ShieldCheck,
       title: 'Licensed Insurance Brokers',
-      description: 'Our partners are fully registered with Insurance Council of New Zealand',
+      description: 'Our partners are fully registered with Financial Markets Authority',
     },
     {
       icon: Zap,
@@ -86,7 +86,7 @@ export default function AboutPage() {
                 TrailerInsurance.co.nz was founded with a simple mission: make it easy for New Zealanders to find the right trailer insurance. We saw that too many Kiwis were either overpaying for cover they didn't need or driving uninsured because the process was confusing and time-consuming.
               </p>
               <p className="text-slate-700 text-lg mb-4">
-                We partnered with ICNZ-registered brokers across New Zealand to create a transparent, no-fee quote service. No hidden charges. No pushy sales tactics. Just straightforward comparisons and expert advice from professionals who know the NZ insurance landscape inside out.
+                We partnered with FSP registered brokers across New Zealand to create a transparent, no-fee quote service. No hidden charges. No pushy sales tactics. Just straightforward comparisons and expert advice from professionals who know the NZ insurance landscape inside out.
               </p>
               <p className="text-slate-700 text-lg">
                 Today, thousands of Kiwis trust us to help them protect their trailers. Whether you're towing a <Link href="/insurance/caravan-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">caravan up the West Coast</Link> or hauling a <Link href="/insurance/horse-float-insurance-nz" className="text-amber-600 hover:text-amber-700 font-semibold underline">horse float to a weekend show</Link>, we're here to connect you with the best insurance for your needs.
@@ -119,7 +119,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold text-slate-900 mb-4">Understanding the Trailer Insurance Industry</h2>
               <p className="text-slate-700 text-lg mb-4">
-                New Zealand's trailer insurance market is regulated by the Insurance Council of New Zealand (ICNZ), which ensures all brokers and insurers meet strict standards. This regulatory framework protects customers by requiring licensed professionals, transparent disclosure practices, and proper claims handling procedures.
+                New Zealand's trailer insurance market is regulated by the Reserve Bank of New Zealand for financial soundness and the Financial Markets Authority for conduct, which ensures all brokers and insurers meet strict standards. This regulatory framework protects customers by requiring licensed professionals, transparent disclosure practices, and proper claims handling procedures.
               </p>
               <p className="text-slate-700 text-lg mb-4">
                 The NZ trailer insurance landscape includes both specialist providers who focus exclusively on trailers and general insurers offering trailer coverage as part of their broader product suite. Specialist insurers like Mariner Insurance bring deep expertise in marine-specific risks, while mainstream providers like AA Insurance, AMI, State Insurance, and Tower offer competitive premiums and comprehensive coverage through established networks.

@@ -29,7 +29,7 @@ export default function DisclaimerPage() {
                   TrailerInsurance.co.nz is a lead generation service, not an insurance broker, insurance company, or financial adviser.
                 </p>
                 <p className="text-red-800">
-                  We connect you with ICNZ-registered insurance brokers who will provide quotes and recommendations. We do not provide insurance directly, nor do we provide financial or investment advice.
+                  We connect you with FSP registered insurance brokers who will provide quotes and recommendations. We do not provide insurance directly, nor do we provide financial or investment advice.
                 </p>
               </div>
             </div>
@@ -49,7 +49,7 @@ export default function DisclaimerPage() {
                 <div className="border-l-4 border-orange-500 pl-6">
                   <h3 className="font-bold text-slate-900 mb-2">Not an Insurance Broker</h3>
                   <p className="text-slate-700">
-                    While we connect you with brokers, we are not ourselves licensed brokers. The brokers we connect you with are ICNZ-registered and fully licensed.
+                    While we connect you with brokers, we are not ourselves licensed brokers. The brokers we connect you with are FSP registered and fully licensed.
                   </p>
                 </div>
                 <div className="border-l-4 border-orange-500 pl-6">
@@ -129,11 +129,11 @@ export default function DisclaimerPage() {
               </p>
             </div>
 
-            {/* ICNZ Registration */}
+            {/* FSP Registration */}
             <div>
-              <h2 className="text-2xl font-bold text-slate-900 mb-4">ICNZ Registration</h2>
+              <h2 className="text-2xl font-bold text-slate-900 mb-4">FSP Registration</h2>
               <p className="text-slate-700 mb-4">
-                When we mention "ICNZ-registered brokers," we are referring to brokers registered with the Insurance Council of New Zealand. ICNZ-registered brokers are required to:
+                When we mention "FSP registered brokers," we are referring to brokers registered with the Financial Markets Authority. FSP registered brokers are required to:
               </p>
               <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-4">
                 <li>Act in accordance with the Insurance Brokers (Ethical Conduct) Rules 2019</li>
@@ -141,7 +141,7 @@ export default function DisclaimerPage() {
                 <li>Provide accurate information and fair service to clients</li>
               </ul>
               <p className="text-slate-700">
-                You can verify a broker's ICNZ registration at www.icnz.org.nz.
+                You can verify a broker's FSP registration at fsp-register.companiesoffice.govt.nz.
               </p>
             </div>
 

@@ -53,7 +53,7 @@ export default function PrivacyPage() {
               <p>We use the information we collect to:</p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Process your quote request and contact you with relevant insurance information</li>
-                <li>Connect you with ICNZ-registered insurance brokers</li>
+                <li>Connect you with FSP registered insurance brokers</li>
                 <li>Send you updates about our services (with your consent)</li>
                 <li>Improve our website and services based on user feedback and analytics</li>
                 <li>Prevent fraud and protect our website security</li>
@@ -67,7 +67,7 @@ export default function PrivacyPage() {
                 We do not sell your personal information. However, we share your information with:
               </p>
               <ul className="list-disc pl-6 space-y-2">
-                <li><strong>Insurance Brokers:</strong> We share your details with ICNZ-registered brokers who will provide you with quote comparisons</li>
+                <li><strong>Insurance Brokers:</strong> We share your details with FSP registered brokers who will provide you with quote comparisons</li>
                 <li><strong>Insurance Providers:</strong> Brokers may share your information with relevant insurance companies for quote purposes only</li>
                 <li><strong>Service Providers:</strong> Third parties who assist us with website hosting, analytics, and customer support</li>
                 <li><strong>Legal Requirements:</strong> If required by law, court order, or government request</li>

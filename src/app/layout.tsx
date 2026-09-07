@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "TrailerInsurance.co.nz | Trailer Insurance NZ | Compare & Save",
-    description: "Compare top trailer insurance providers in New Zealand. Quotes within 24 hours from ICNZ-registered brokers.",
+    description: "Compare top trailer insurance providers in New Zealand. Quotes within 24 hours from FSP registered brokers.",
   },
   icons: {
     icon: [

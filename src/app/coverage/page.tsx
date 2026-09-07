@@ -586,7 +586,7 @@ export default function CoveragePage() {
       {/* CTA Banner */}
       <CTABanner
         title="Find the Right Coverage for Your Trailer"
-        description="Get quotes and expert advice from ICNZ registered brokers."
+        description="Get quotes and expert advice from FSP registered brokers."
         buttonText="Get a Quote"
         buttonLink="/#quote-form"
       />

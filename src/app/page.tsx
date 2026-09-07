@@ -117,7 +117,7 @@ export default function HomePage() {
               "availableLanguage": "English"
             },
             "sameAs": [],
-            "description": "New Zealand's specialist trailer insurance comparison service connecting Kiwis with ICNZ-registered insurance brokers."
+            "description": "New Zealand's specialist trailer insurance comparison service connecting Kiwis with FSP registered insurance brokers."
           }),
         }}
       />

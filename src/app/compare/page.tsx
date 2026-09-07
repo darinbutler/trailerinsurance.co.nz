@@ -319,7 +319,7 @@ export default function ComparePage() {
               Want Quotes from All Five Providers at Once?
             </h3>
             <p className="text-white/90 text-lg mb-6 max-w-2xl mx-auto">
-              Since every provider requires a phone call, let our ICNZ-registered brokers do the legwork. One form — multiple quotes back in your inbox.
+              Since every provider requires a phone call, let our FSP registered brokers do the legwork. One form — multiple quotes back in your inbox.
             </p>
             <a
               href="/#quote-form"
@@ -513,7 +513,7 @@ export default function ComparePage() {
               {[
                 'We contact all five providers (and more from our broker network) on your behalf',
                 'Quotes compared side-by-side — not just price, but excess, agreed value, and key exclusions',
-                'ICNZ-registered brokers who understand NZ trailer and caravan insurance',
+                'FSP registered brokers who understand NZ trailer and caravan insurance',
                 'No obligation — compare then decide',
                 'Response within 24 hours on business days',
               ].map((item, i) => (

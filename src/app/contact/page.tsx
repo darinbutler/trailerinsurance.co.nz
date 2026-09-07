@@ -47,7 +47,7 @@ export default function ContactPage() {
               </h1>
 
               <p className="text-lg text-slate-300 mb-6 leading-relaxed">
-                Fill in the form and one of our ICNZ-registered brokers will compare the market and get back to you within 24 hours — at no cost to you.
+                Fill in the form and one of our FSP registered brokers will compare the market and get back to you within 24 hours — at no cost to you.
               </p>
 
               {/* Contact strip */}

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Shield, Zap, HeadphonesIcon, Lock, ExternalLink } from 'lucide-react';
 
 const footerTrustBadges = [
-  { icon: Shield, label: 'Fair Practice Standard' },
+  { icon: Shield, label: 'FSP Registered' },
   { icon: Zap, label: 'Instant Quotes' },
   { icon: HeadphonesIcon, label: 'Expert Support' },
   { icon: Lock, label: '100% Secure' },
@@ -65,7 +65,7 @@ const footerLinks = {
   regulatory: {
     title: 'NZ Regulatory Bodies',
     links: [
-      { label: 'ICNZ', href: 'https://www.icnz.org.nz/', external: true },
+      { label: 'FSP', href: 'https://www.fma.govt.nz/', external: true },
       { label: 'FMA', href: 'https://www.fma.govt.nz/', external: true },
       { label: 'IFSO', href: 'https://www.ifso.nz/', external: true },
       { label: 'RBNZ Insurance Regulation', href: 'https://www.rbnz.govt.nz/regulation-and-supervision/insurers', external: true },

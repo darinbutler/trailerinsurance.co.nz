@@ -123,7 +123,7 @@ export default function FAQsPage() {
 
               <Link href="/contact" className="p-4 bg-white rounded-lg border border-amber-200 hover:border-amber-400 transition-colors text-center">
                 <h3 className="font-semibold text-slate-900 mb-2">Contact a Broker</h3>
-                <p className="text-sm text-slate-700 mb-3">Speak directly with an ICNZ registered broker about your needs.</p>
+                <p className="text-sm text-slate-700 mb-3">Speak directly with an FSP registered broker about your needs.</p>
                 <span className="text-amber-600 font-semibold">Get in touch →</span>
               </Link>
             </div>
@@ -227,7 +227,7 @@ export default function FAQsPage() {
               <p className="text-slate-700 mb-6">Get quotes from multiple insurers in just a few minutes.</p>
               <div className="space-y-3">
                 <p className="text-slate-700 text-sm">
-                  Our quote tool is easy to use. You'll receive quotes from ICNZ registered insurers without any obligation.
+                  Our quote tool is easy to use. You'll receive quotes from licensed New Zealand insurers without any obligation.
                 </p>
                 <a
                   href="/#quote-form"
